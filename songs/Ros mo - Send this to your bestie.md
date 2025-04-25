@@ -1,4 +1,4 @@
-[English]()
+[English](https://lyricstranslate.com/en/ros-mo-send-your-bestie-lyrics)
 # Send this to your bestie
 ```
 Hey you're an idiot
