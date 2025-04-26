@@ -28,7 +28,7 @@ Hãy yêu tớ đi
 
 Hãy viết một câu chuyện
 Trong sách của tở
-Cậu và tớ trên cùng một trang sách
+Cậu và tớ trên cùng một trang
 Ít nhất là cũng xem qua chứ
 
 Ôi, phép tắc đâu hết rồi?
