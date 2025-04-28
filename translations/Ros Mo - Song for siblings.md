@@ -27,3 +27,5 @@ Mình là anh em và sẽ không bao giờ thể hiện tình cảm vì...
 Oẹ[fn]Nôn bằng tone của anh em[/fn]
 Em sẽ chỉ thể hiện bằng cách chọc anh 30 lần mỗi ngày
 ```
+
+Mình sử dụng "anh" thay cho "you" và "em" thay cho "me". Mình đoán vai vế dựa trên ngữ cảnh thôi chứ mình không chắc là "you" ở đây là anh trai hay em trai.
