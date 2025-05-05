@@ -35,3 +35,7 @@ Ha, ha, Trời ơi cứu con
 
 [Điệp khúc]
 ```
+
+Cái cách xếp lời thoại này khác với những gì bình thường mình làm (viết "[chorus]" thay vì lập lại luôn). Nhưng vì lời bài hát này có sẵn, nên mình vẫn sấp xếp các câu cho trùng với lời được đăng tải.
+
+Bản thân lời dịch này cũng khó mà có thể làm 1-1 được, nên trong bài hát này mình chỉ tìm cách để có thể biểu đạt ý cho gần giống.
