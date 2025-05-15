@@ -27,3 +27,7 @@
 ふわりと巡るよ　懐かしい気持ちなんだ
 おわりの時でも　ぼくらの歌　時を超えてひびくよ
 ```
+
+Semi-grand prix winner of the Magical Mirai 2020 song contest.
+
+Source: from the original video
