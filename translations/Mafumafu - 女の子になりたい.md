@@ -27,7 +27,7 @@ Let's become the one and only Cinderella!
 A little courage and a huge leap for this tiny dream
 My feet is trembling from fear, I might try to run away
 I wanna be a cute pretty girl!
-Can I just become one please? ah
+Can I just become one please?
 Can I continue stay in this dream?
 
 With this weird voice that never reach into right pitch
