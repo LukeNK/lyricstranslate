@@ -88,3 +88,94 @@ Thanks a lot!
 
 (Thank you!)
 ```
+
+[Vietnamese](https://lyricstranslate.com/en/les-cowboys-fringant-merci-ben-vietnamese)
+# Cảm ơn nhiều!
+```
+Cho những túp liều đầy thuốc
+Và quán bar mà chúng tôi đặt
+Những sân khấu 4x8
+Với dàn âm thanh như cức
+
+Cho món mì ý đầy mùi thiu
+Trong những buổi diễn trưa ở CEGEP
+Và khoảnh khắc đáng thương
+Khi đứng hát ở trên bàn
+
+Cho tất cả các căn-tin
+Nơi không ai nghe chúng tôi
+Cho những công việc trở lại
+Khi phòng chúng tôi đang trống dần
+
+Cảm ơn nhiều! Cảm ơn nhiều! Cảm ơn nhiều!
+
+Cho tất cả những nơi chúng tôi thăm
+Mà chúng tôi không thật sự đến
+Và những nơi chúng tôi đến
+Mà không thật sự thăm
+
+Cho hàng giờ ở trên đường
+Ăn bánh mì không vỏ
+Và những xe buýt ở Châu Âu
+Nơi những buổi nhậu kéo mãi
+
+Cho những ánh đèn ở Pigalle
+Những đêm thức trắng ở Chicoutimi
+Và bắc cực quang
+Mà ta ngắm cùng với nhau mình ơi
+
+Cảm ơn nhiều! Cảm ơn nhiều! Cảm ơn nhiều!
+Cảm ơn nhiều!
+
+Cho đứa nhóc từ gia đình khá
+Cho ông già hay đám con gái
+Mà đã cho chúng tôi nghỉ
+Trong cuộc sống tất bật mà chúng tôi yêu
+
+Cho những kẻ đã hét
+Những tên bài chúng tôi chưa từng chơi
+Hay là một bà hơi lập dị
+Người đã khỏa thân cho chúng tôi thấy hết bên trong
+
+Cho hàng tấn thùng bia
+Để chúng tôi uống khoác vai nhau
+Trong đống rác của lễ hội
+Mà nó có mùi như phân bò
+
+Cảm ơn nhiều! Cảm ơn nhiều! Cảm ơn nhiều!
+Cảm ơn nhiều!
+
+Cho tất cả các phòng rác
+Và những khán đài chật ních
+Những lần say trên đường
+Và mọi món ăn vặt đêm dở tệ
+Cho tất cả chuyến lưu diễn, du lịch
+Và lưu niệm trong hành lý của chúng tôi
+Cảm ơn nhiều! Cảm ơn nhiều! Cảm ơn nhiều!
+
+Cho bản hùng ca lạ kỳ này
+Viết lên bởi tình bạn
+Mà nó sẽ vượt trên cuộc sống
+Và tôi hy vọng trên cả cái chết
+
+Cho tất cá giai điệu dưới ánh trăng
+Kế bên phòng nhà nghỉ màu nâu
+Và tiếng cười đêm lễ hội
+Sẽ cứ vang vọng trong lòng chúng tôi
+
+Cho hàng ngàn con người
+Mà đã bước qua đời chúng tôi
+Cho bật lửa của bạn giơ trên trời
+Và nụ cười bất diệt của bạn
+
+Cảm ơn nhiều! Cảm ơn nhiều! Cảm ơn nhiều!
+Cảm ơn nhiều! Cảm ơn nhiều! Cảm ơn nhiều!
+Cảm ơn nhiều! Cảm ơn nhiều! Cảm ơn nhiều!
+Cảm ơn nhiều!
+
+Cảm ơn nhiều! Cảm ơn nhiều! Cảm ơn nhiều!
+Cảm ơn nhiều! Cảm ơn nhiều! Cảm ơn nhiều!
+Cảm ơn nhiều!
+
+(Cảm ơn nhiều!)
+```
