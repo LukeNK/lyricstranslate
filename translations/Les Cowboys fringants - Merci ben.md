@@ -158,7 +158,7 @@ Viết lên bởi tình bạn
 Mà nó sẽ vượt trên cuộc sống
 Và tôi hy vọng trên cả cái chết
 
-Cho tất cá giai điệu dưới ánh trăng
+Cho tất cả giai điệu dưới ánh trăng
 Kế bên phòng nhà nghỉ màu nâu
 Và tiếng cười đêm lễ hội
 Sẽ cứ vang vọng trong lòng chúng tôi
