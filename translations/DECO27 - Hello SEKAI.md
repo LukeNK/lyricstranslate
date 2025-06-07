@@ -38,3 +38,5 @@ That's for forever, no doubt, SEKAI is forever too
 Connecting now, intertwining now
 Hearts vibrating, and now transmitting, to all of us
 ```
+
+Source: from Deco27, in the pinned comment of the original video
