@@ -1,83 +1,83 @@
 [Vietnamese](https://lyricstranslate.com/en/kat-united-states-affection-addiction-vietnamese)
 # Nghiện yêu
 ```
-[Intro]
-Woah I think I’m addicted, I’m addicted
-I’m addicted, I’m addicted
-I’m addicted, I’m addicted
-Or so I think I’m addicted, I’m addicted
-I’m addicted, I’m addicted to the friction of an artificial love
+[Dạo đầu]
+Woah tớ nghĩ tớ bị nghiện, tớ bị nghiện
+Tớ bị nghiện, tớ bị nghiện
+Tớ bị nghiện, tớ bị nghiện
+Hay là tớ nghĩ tớ bị nghiện, tớ bị nghiện
+Tớ bị nghiện, tớ bị nghiện cái cảm giác thân mật của một tình yêu giả tạo
 
-[Verse]
-Two steps forward, three steps back
-And I knew right from the jump I’d get too attached
-But I fell hard, who can blame me for that?
-When I knew right from the jump it was a perfect match
+[Lời]
+Hai bước tiến, ba bước lùi
+Và tớ biết ngay là tớ đã quá là gần gũi
+Nhưng mà tớ đã có kinh nghiệm, ai có thể đổ thừa tớ?
+Khi tớ biết ngay nó sẽ là một cặp hoàn hảo
 
-Thought I learned my lesson, started playing by the book
-All that self improvement out the window with one look
+Tưởng là tớ đã chừa rồi, bắt đầu theo từng giai đoạn
+Mọi sự yêu bản thân ra cửa sổ với một cái liếc
 
-Look me in the eye, hold me close just for tonight
-Watching hours passing by, and I wanna last till the morning light
-So do you think I’m just desperate when I’m down on my luck?
-Or do you know that I’m obsessed with how it feels when we f-
+Nhìn vào mắt tớ, ôm tớ thật chặt chỉ đêm nay thôi
+Coi thời gian trôi qua, và tớ muốn trụ đến ánh bình minh
+Vậy cậu có nghĩ tớ chỉ tuyệt vọng khi tớ hơi bị xui?
+Hay là cậu biết rằng tớ phát cuồng với cái cảm giác khi chúng ta đụ[fn]fuck: đụ[/fn]
 
-[Chorus]
-Woah I think I’m addicted, I’m addicted to love
-I’m out of sync, self-inflicted, but it fits like a glove
-Woah I think I’m addicted, I just can’t get enough
-I’m on the brink, it's so predicted but it feels so off the cuff
+[Điệp khúc]
+Woah tớ nghĩ tớ bị nghiện, tớ bị nghiện với tình yêu
+Tớ phát rồ, tự hủy hoại bản thân, nhưng nó cũng rất là vừa
+Woah tớ nghĩ tớ bị nghiện, tớ không nghĩ tớ có đủ
+Tớ sắp té, thật dễ đoán nhưng nó cảm giác rất bất ngờ
 
-And I know that it's a waste of time
-But I can’t survive without the high
-So-oh I think I’m addicted to the way that we touch
-I’m like a lovesick junkie begging you for one more little puff
+Và tớ biết rằng nó chỉ tốn thời gian
+Nhưng tớ không thể sống mà không lên đỉnh
+Vậy-oh tớ nghĩ tớ bị nghiện với cách chúng ta chạm
+Tớ như là một con nghiện xin cậu cho thêm một hơi nữa
 
-[Verse]
-You got me messed up, stressed, depressed
-Rotting in my bed, overthinking every single word you said
-Cause I’m too invested, I feel possessed
-Am I crazy for wanting us to be mutually obsessed?
+[Lời]
+Cậu làm tớ điên, áp lực, trầm cảm
+Thối rửa trên giường, suy nghĩ quá nhiều về từng chữ cậu nói
+Vì tớ quá là đầu tư, tớ thấy như bị nhập
+Tớ có quá là điên khi muốn cả hai cuồng lẫn nhau?
 
-Look me in the eye, say you need me to survive
-Anything to make you mine, even if it's only one more night
-So do you think life is hell and I’m your one stroke of luck?
-Or do you know that I can tell that you don’t really give a f-
+Nhìn vào mắt tớ, nói cậu cần tớ để sống
+Mọi thứ để khến cậu là của tớ, dù chỉ cho thêm một đêm nữa
+Vậy cậu có nghĩ cuộc sống là địa ngục và tớ là một tia hy vọng?
+Hay là cậu biết rằng tớ biết là cậu đéo[fn]fuck: đéo[/fn] quan tâm
 
-[Chorus]
-Woah I think, I’m addicted, I’m addicted to love
-I wanna scream, so conflicted, but you’re making me blush
-Woah I think, I’m addicted, the adrenaline rush
-I know you’re lying to my face but I won’t ever call your bluff
+[Lời]
+Woah tớ nghĩ tớ bị nghiện, tớ bị nghiện với tình yêu
+Tớ muốn thét, thật mâu thuẫn, nhưng cậu đang làm tớ đỏ mặt
+Woah tớ nghĩ tớ bị nghiện, cơn sốt andrenaline
+Tớ biết cậu đang nói dối vào mặt tớ nhưng tớ sẽ không bao giờ nói cậu xạo
 
-And I know that it's a waste of time
-But I can’t survive without the high
-So-oh I think I’m addicted to the concept of us
-But with the way you look at him, I know I’ll never be enough
+Và tớ biết rằng nó chỉ tốn thời gian
+Nhưng tớ không thể sống mà không lên đỉnh
+Vậy-oh tớ nghĩ tớ bị nghiện với khái niệm "chúng ta"
+Nhưng với cái cách cậu nhìn vào hắn, tớ biết tớ sẽ không bao giờ đủ
 
-[Bridge]
-I’m so hung up, I’ve had enough, I wanna quit this
-I’m so fed up with lust and love, don’t know the difference
-Am I a whore if I adore this cheap ambivalence?
+[Chuyển tiếp]
+Tớ kẹt, tớ có đủ rồi, tớ muốn rời khỏi nó
+Tớ chịu quá đủ với ham muốn và tình yêu, không biết sự khác biệt
+Có phải tớ là con đĩ nếu như tớ thích sự trái ngược rẻ tiền này?
 
-I know that it’s out of my control
-All I want is to feel beautiful
+Tớ biết rằng nó ngoài tầm kiểm soát
+Mọi thứ tớ muốn là cảm thấy đẹp
 
-[Chorus]
-Woah I think I’m addicted, I’m addicted to love
-I’m out of sync, self inflicted, but it fits like a glove
-Woah I think I’m addicted, I just can’t get enough
-I’m on the brink, it's so predicted but it feels so off the the cuff
+[Điệp khúc]
+Woah tớ nghĩ tớ bị nghiện, tớ bị nghiện với tình yêu
+Tớ phát rồ, tự hủy hoại bản thân, nhưng nó cũng rất là vừa
+Woah tớ nghĩ tớ bị nghiện, tớ không nghĩ tớ có đủ
+Tớ sắp té, thật dễ đoán nhưng nó cảm giác rất bất ngờ
 
-And I know that it's a waste of time
-But I can’t survive without the high
-So-oh I think I’m addicted to the way that we touched
-I’m like a lovesick junkie begging you for one more final puff
+Và tớ biết rằng nó chỉ tốn thời gian
+Nhưng tớ không thể sống mà không lên đỉnh
+Vậy-oh tớ nghĩ tớ bị nghiện với cách chúng ta chạm
+Tớ như là một con nghiện xin cậu cho thêm một hơi nữa
 
-[Outro]
-Woah I think I’m addicted, I’m addicted
-I’m addicted, I’m addicted
-I’m addicted, I’m addicted
-Or so I think I’m addicted, I’m addicted
-I’m addicted, I’m an idiot for thinking I was worthy of your love
+[Kết]
+Woah tớ nghĩ tớ bị nghiện, tớ bị nghiện
+Tớ bị nghiện, tớ bị nghiện
+Tớ bị nghiện, tớ bị nghiện
+Hay là tớ nghĩ tớ bị nghiện, tớ bị nghiện
+Tớ bị nghiện, tớ thật ngu khi nghĩ tớ đáng với tình yêu của cậu
 ```

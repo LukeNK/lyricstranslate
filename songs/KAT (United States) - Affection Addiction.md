@@ -1,4 +1,4 @@
-[English]()
+[English](https://lyricstranslate.com/en/kat-united-states-affection-addiction-lyrics)
 # Affection Addiction
 ```
 [Intro]
