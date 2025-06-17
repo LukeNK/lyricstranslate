@@ -1,5 +1,5 @@
 [Vietnamese](https://lyricstranslate.com/en/synthion-imaginary-love-story-vietnamese)
-Chuyện tình trong mơ
+# Chuyện tình trong mơ
 ```
 [Lời]
 Cô công chúa mắc kẹt trong lâu đài

@@ -1,4 +1,4 @@
-[Vietnamese](https://lyricstranslate.com/en/minh-vương-gửi-con-tương-lai-lyrics.html)
+[English](https://lyricstranslate.com/en/minh-vương-gửi-con-tương-lai-lyrics.html)
 # To You in The Future
 ```
 My future child

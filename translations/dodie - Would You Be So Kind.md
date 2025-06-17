@@ -1,4 +1,4 @@
-[English](https://lyricstranslate.com/en/dodie-would-you-be-so-kind-vietnamese)
+[Vietnamese](https://lyricstranslate.com/en/dodie-would-you-be-so-kind-vietnamese)
 # Cậu có thể làm ơn?
 ```
 Tớ có một câu hỏi
