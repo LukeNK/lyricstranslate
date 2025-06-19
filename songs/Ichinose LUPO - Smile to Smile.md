@@ -14,7 +14,10 @@
 誰も知らない明日を描いてみてさ
 たった一つでも君との声を聞かせて
 
-(Smile to Smile)
+(Smile to Smile) 君と
+(Smile to Smile) ずっと
+(Smile to Smile) いつまでも
+(Smile to Smile) どこまでも
 
 この声を背負って明日を迎えに行こう
 僕がいま目指す未知の先まで
@@ -41,7 +44,20 @@
 誰も知らない明日を描いてみてさ
 たった一つでも君との声を聞かせて
 
-(Smile to Smile)
+(Smile to Smile) 君と
+(Smile to Smile) ずっと
+(Smile to Smile) いつまでも
+(Smile to Smile) どこまでも
+
+(Smile to Smile) 最後まで
+(Smile to Smile) 永遠に
+(Smile to Smile) 明日も
+(Smile to Smile) これからも
+
+(Smile to Smile) 君と
+(Smile to Smile) ずっと
+(Smile to Smile) いつまでも
+(Smile to Smile) どこまでも
 ```
 
-Lyrics from the original video's description
+Lyrics from the original video's description. Modified to clarify the "Smile to Smile" chorus.
