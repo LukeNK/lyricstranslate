@@ -5,15 +5,15 @@
 Đừng tạm biệt người thân và gia đình
 Tự nhủ rằng họ sẽ quên
 (Hai)
-Đừng biết thư nói rằng tại sao bạn lại ra đi
+Đừng viết thư tuyệt mệnh
 Vì nó sẽ kiến bạn ngã gục
 
 (Ba)
 Đưa hết tiền cho các tổ chức từ thiện
 Giả vờ là bạn có ít hơn thế
 (Bốn)
-Sau khi bạn bỏ hết tài sản
-Đó là lúc để nghĩ ra một kế hoạch
+Sau khi bạn đốt hết tài sản
+Đó là lúc để lên một kế hoạch
 
 Tớ đã thử quá nhiền lần
 Nhưng tớ chẳng thể làm thứ gì đúng
@@ -21,7 +21,7 @@ Có lẽ có một cách dễ hơn
 Tớ sẽ tìm hướng dẫn trên mạng
 
 (Thất bại)
-Tớ phải chắc chắn là tớ đi hết
+Tớ phải chắc chắn là tớ đi đến hết
 Bởi vì lần trước, tớ bị phạt
 (Khóc)
 Vì tớ chẳng tìm được cái gì đáng để thử
