@@ -28,3 +28,36 @@ Caressing someone's cheek
 ```
 
 Based on the original video's English translation. Title's translation kept from the author's translation; the literal translation is "White Winged Postman"
+
+[Vietnamese](https://lyricstranslate.com/en/asyu-haku-tsubasa-no-yubin-hai-vietnamese)
+# Thiên thần đưa thư
+```
+Từ cuối trời, một lá thư trong tay
+Một thiên thần lượn là vỗ cánh
+Mang lời hứa, hối hận của ai đó
+Bên kia đại dương, thật xa
+
+Trong cuộc sống ngắn ngủi tích tắc
+Họ đã thấy những gì?
+Cô không thể biết
+Thế giới ngoài kia mà cô không thấy
+
+Những khung cảnh đi qua, ký ức dần phai
+Bên kia hẻm núi, kế bên một làng
+Những lời hứa, hối hận sẽ không thành
+Theo ngọn gió mà đến
+
+Như một tia sáng
+Lẻ loi nhạt nhòa theo hơi thở
+Cô không thể hiểu
+Những bí mật trong thâm tâm mà cô không biết
+
+Từ cuối trời, một lá thư trong tay
+Một thiên thần lượn là vỗ cánh
+Để những lời nói trở thành một ngọn gió
+Thoảng qua má cậu
+```
+
+Mình tạm gọi thiên thần là con gái cho giống video. Tiêu đề của bài hát cũng tạm dịch cho phù hợp.
+
+I will assume the angel is a girl like the video. The translation of the title is not a literal translation to make it suitable.
