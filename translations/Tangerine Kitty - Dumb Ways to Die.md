@@ -1,4 +1,4 @@
-(Vietnamese)[https://lyricstranslate.com/en/tangerine-kitty-dumb-ways-die-vietnamese]
+[Vietnamese](https://lyricstranslate.com/en/tangerine-kitty-dumb-ways-die-vietnamese)
 # Những cách ngu để chết
 ```
 Đốt tóc bạn
