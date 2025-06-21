@@ -1,31 +1,31 @@
 [English](https://lyricstranslate.com/en/les-cowboys-fringants-merci-ben-lyrics)
 # Thanks a lot!
 ```
-For the taverns of coke
-And the bars that booked us
-The tiny 4x8 stage
-With some shitty sound system
+For the bars full of cokeheads
+And the dives that booked us
+The tiny 4x8 stages
+With some shitty sound systems
 
 For the smell of spaghetti
 In the CEGEP shows at noon
 And the pitiful moments
-Standing on the table and sing
+Standing on the table and singing
 
 For all the cafeterias
-Where no one listen to us
+Where no one listened to us
 For the job that we have
 As our room emptied
 
 Thanks a lot! Thanks a lot! Thanks a lot!
 
-For all the place we visited
+For all the places we visited
 Where we would have never gone
 And those where we went
-Without really visited
+Without ever really visiting
 
 For the thousands of hours on the road
 To eat sandwiches without the crusts
-And the tour bus in Europe
+And the tour buses in Europe
 Where the party went on non-stop
 
 For the lights of Pigalle
@@ -36,7 +36,7 @@ That we watched together my darling
 Thanks a lot! Thanks a lot! Thanks a lot!
 Thanks a lot!
 
-For the little guys from a good family
+For the little guy from a good family
 The old punk or the gang of girls
 Who came to give us a break
 In this daily life that we love
@@ -48,7 +48,7 @@ Who flashed us her jos all the time
 
 For tons of bear cases
 That you drank with your fist in the air
-In all the festival trash
+In all the festival trashes
 Where it smells like cow dung
 
 Thanks a lot! Thanks a lot! Thanks a lot!
@@ -56,7 +56,7 @@ Thanks a lot!
 
 For all the junk rooms
 And the giant arenas full of people
-The hangovers on the tarmac
+The hangovers on the street
 And all the terrible late night snacks
 For the tours, the trips
 And the souvenirs in our baggages
@@ -69,8 +69,8 @@ And I hope death too
 
 For the jams in the moonlight
 In front of a brown motel room
-And the laughter in the festive night
-That keep resonant in our heads
+And the laughters in the festive night
+That keep resonant in our minds
 
 For the millions of human beings
 That we crossed path
