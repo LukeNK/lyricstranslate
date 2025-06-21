@@ -59,3 +59,65 @@ Let me just hear your voice only
 (Smile to Smile) whenever
 (Smile to Smile) wherever
 ```
+
+[Vietnamese](https://lyricstranslate.com/en/ichinose-lupo-smile-smile-vietnamese)
+# Cười với nhau
+```
+Tớ như được gặp cậu ở đây
+Dưới bầu trời như ngày hôm đó
+
+Tớ từng thấy cậu ở đầu bên kia ngọn sóng
+Kết nối đến một thế giới mà tớ chưa biết
+
+Dù cậu có tô với những màu sắc xấu
+Dù cậu có chơi với những âm thanh lộn xộn
+Một nơi mà cậu có thể là chính mình
+Dù nó không có ra gì, lật qua trang mới
+Thử vẽ một tương lai mà không ai biết
+Hãy để tớ nghe chính giọng nói của cậu
+
+(Cười với nhau) với cậu
+(Cười với nhau) mãi mãi
+(Cười với nhau) mọi lúc
+(Cười với nhau) cho đến cùng
+
+Hãy mang tiếng nói này đi đến ngày mai
+Cùng tớ khám phá những điều chưa biết
+
+Tưởng tượng cậu đang ở bên kia bầu trời
+Cậu có đang nhìn vào trang tớ thấy ngày hôm đó?
+
+Hãy gom một tỉ tia sáng[fn]輝き: nghĩa gốc là "lấp lánh"[/fn] lại với nhau
+Đây là khoảnh khắc chúng ta trở thành một
+Để tớ là chính tớ
+Bằng chứng cậu có thể là chính mình
+Vì tớ tin vào đúng điều này
+Nên tớ luôn tìm nó
+
+Dù nó có đau, dù cậu lo tới mức muốn khóc
+Đây là lúc cậu có thể thay đổi nó
+Không còn bóng tối hay cơn mưa không ngớt
+Hãy vẽ một cầu vòng ở phía trước
+
+Dù cậu có tô với những màu sắc xấu
+Dù cậu có chơi với những âm thanh lộn xộn
+Một nơi mà cậu có thể là chính mình
+Dù nó không có ra gì, lật qua trang mới
+Thử vẽ một tương lai mà không ai biết
+Hãy để tớ nghe chính giọng nói của cậu
+
+(Cười với nhau) với cậu
+(Cười với nhau) mãi mãi
+(Cười với nhau) mọi lúc
+(Cười với nhau) cho đến cùng
+
+(Cười với nhau) vĩnh viễn
+(Cười với nhau) luôn luôn
+(Cười với nhau) cả ngày mai
+(Cười với nhau) trở về sau
+
+(Cười với nhau) với cậu
+(Cười với nhau) mãi mãi
+(Cười với nhau) mọi lúc
+(Cười với nhau) cho đến cùng
+```
