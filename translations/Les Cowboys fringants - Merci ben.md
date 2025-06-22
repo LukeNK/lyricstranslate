@@ -13,8 +13,8 @@ Standing on the table and singing
 
 For all the cafeterias
 Where no one listened to us
-For the job that we have
-As our room emptied
+For the way we got better with practice
+While our audiences were getting less
 
 Thanks a lot! Thanks a lot! Thanks a lot!
 
@@ -29,7 +29,7 @@ And the tour buses in Europe
 Where the party went on non-stop
 
 For the lights of Pigalle
-And the white nights in Chicoutimi
+And the sleepless nights in Chicoutimi
 And the aurora borealis
 That we watched together my darling
 
@@ -39,17 +39,17 @@ Thanks a lot!
 For the little guy from a good family
 The old punk or the gang of girls
 Who came to give us a break
-In this daily life that we love
+In this burdensome daily life
 
 For the annoying folks who yelled
-The titles that we never played
-Or for there is a little weirdo
-Who flashed us her jos all the time
+The song titles that we never played
+Or for that girl, a little bit of a werido
+Who flashed us her tits all the time
 
-For tons of bear cases
+For tons of beer cases
 That you drank with your fist in the air
-In all the festival trashes
-Where it smells like cow dung
+In all the trash festivals
+Where it smelled like cow shit
 
 Thanks a lot! Thanks a lot! Thanks a lot!
 Thanks a lot!
@@ -59,21 +59,21 @@ And the giant arenas full of people
 The hangovers on the street
 And all the terrible late night snacks
 For the tours, the trips
-And the souvenirs in our baggages
+And the souvenirs in our luggage
 Thanks a lot! Thanks a lot! Thanks a lot!
 
 For this bizarre epic
 Based on friendships
-That will resist life
+That will stand up to life
 And I hope death too
 
 For the jams in the moonlight
-In front of a brown motel room
-And the laughters in the festive night
-That keep resonant in our minds
+In front of a dimly lit motel room
+And the laughter in the festive nights
+That keep resonating in our minds
 
 For the millions of human beings
-That we crossed path
+That we crossed paths with
 For your lighters in the sky
 And your big immortal smiles
 
