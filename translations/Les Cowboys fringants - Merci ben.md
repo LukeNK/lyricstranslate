@@ -4,7 +4,7 @@
 For the bars full of cokeheads
 And the dives that booked us
 The tiny 4x8 stages
-With some shitty sound systems
+With shitty sound systems
 
 For the smell of spaghetti
 In the CEGEP shows at noon
@@ -42,11 +42,11 @@ Who came to give us a break
 In this burdensome daily life
 
 For the annoying folks who yelled
-The song titles that we never played
-Or for that girl, a little bit of a werido
+The titles of tunes that we never played
+Or for that girl, a little bit of a weirdo
 Who flashed us her tits all the time
 
-For tons of beer cases
+For tons of cases of beer
 That you drank with your fist in the air
 In all the trash festivals
 Where it smelled like cow shit
