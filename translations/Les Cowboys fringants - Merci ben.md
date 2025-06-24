@@ -70,7 +70,7 @@ And I hope death too
 For the jams in the moonlight
 In front of a dimly lit motel room
 And the laughter in the festive nights
-That keep resonating in our minds
+That keeps resonating in our minds
 
 For the millions of human beings
 That we crossed paths with
