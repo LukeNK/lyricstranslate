@@ -50,4 +50,4 @@ Check this out
 Check this out
 ```
 
-Source: https://vocaloidlyrics.fandom.com/wiki/Check_this_out
+Source: https://vocaloidlyrics.miraheze.org/wiki/Check_this_out

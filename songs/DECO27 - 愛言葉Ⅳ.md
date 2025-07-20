@@ -69,4 +69,4 @@
 
 Source: from the pinned comment of the original video
 
-Annotations from https://vocaloidlyrics.fandom.com/wiki/愛言葉Ⅳ_(Ai_Kotoba_Ⅳ)
+Annotations from https://vocaloidlyrics.miraheze.org/wiki/愛言葉Ⅳ_(Ai_Kotoba_Ⅳ)

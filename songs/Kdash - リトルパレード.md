@@ -56,4 +56,4 @@
 いなくなれたらいいのにね
 ```
 
-Source: https://vocaloidlyrics.fandom.com/wiki/リトルパレード_(Little_Parade)
+Source: https://vocaloidlyrics.miraheze.org/wiki/リトルパレード_(Little_Parade)
