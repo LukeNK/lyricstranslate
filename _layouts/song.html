@@ -2,7 +2,10 @@
 layout: base
 ---
 <main lang="{{ page.lang }}">
-    <a href="{{ site.url }}">&LeftAngleBracket; Return to home page</a>
+    <p style="display: flex; justify-content: space-between;">
+        <a href="{{ site.url }}">&LeftAngleBracket; Return to home page</a>
+        <a href="{{ page.link }}">Visit Lyricstranslate &RightAngleBracket;</a>
+    </p>
     <h1>{{ page.name | split: ".md" | first }}</h1>
     {{ content }}
 </main>
