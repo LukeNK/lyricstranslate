@@ -5,14 +5,15 @@ layout: base
 <main>
     <h1>List of all the songs:</h1>
     <ul>
-        {% for song in site.pages %}
+        {% assign list = site.pages | sort_natural: "name" %}
+        {% for song in list %}
             {% if song.path contains 'songs/' %}
                 <li><a href=".{{ song.url }}">{{ song.name | split: ".md" | first }}</a></li>
             {% endif %}
         {% endfor %}
     </ul>
     <ul>
-        {% for tran in site.pages %}
+        {% for tran in list %}
             {% if tran.path contains 'translations/' %}
                 <li><a href=".{{ tran.url }}">{{ tran.name }}</a></li>
             {% endif %}

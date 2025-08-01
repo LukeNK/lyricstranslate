@@ -1,10 +1,12 @@
 let fs = require('fs');
 
-fs.readdirSync('songs').forEach(file => {
+fs.readdirSync('translations').forEach(file => {
     if (file.endsWith('.md')) {
-        let content = fs.readFileSync(`songs/${file}`, 'utf8');
-        if (content.includes('layout: song')) return;
-        let front = '---\nlayout: song\nlang: ';
+        let content = fs.readFileSync(`translations/${file}`, 'utf8');
+        if (content.includes('layout: translation')) return;
+        else if (content.split('](').length > 2) console.log('Skipping', file);
+
+        let front = '---\nlayout: translation\ntrans:\n    ';
         content = content.split('\n');
         if (content[0].startsWith('[Japanese'))
             front += 'ja';
@@ -16,10 +18,10 @@ fs.readdirSync('songs').forEach(file => {
             front += 'vi';
         else throw new Error(`Unknown language in ${file}`);
 
-        front += '\nlink: ' + content[0].split('](')[1].slice(0, -1) + '\n---';
+        front += ': ' + content[0].split('](')[1].slice(0, -1) + '\n---';
 
-        content = front + '\n' + content.slice(2).join('\n');
+        content = front + '\n#' + content.slice(1).join('\n');
 
-        fs.writeFileSync(`songs/${file}`, content);
+        fs.writeFileSync(`translations/${file}`, content);
     }
 })

@@ -1,5 +1,10 @@
-[Vietnamese](https://lyricstranslate.com/en/alys-dans-mon-monde-vietnamese)
-# Thế giới của tớ
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/alys-dans-mon-monde-vietnamese
+---
+
+## Thế giới của tớ
 ```
 Nhìn qua đám mây, tớ như có thể chạm nó.
 Gió thoảng qua tán cây, tớ như có thể trôi theo.

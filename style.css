@@ -17,6 +17,7 @@ body{
     background-color: var(--color-bg-theme);
     color: var(--color-fg);
     font-family: "Inter", sans-serif;
+    font-size: 1rem;
     font-optical-sizing: auto;
 }
 
