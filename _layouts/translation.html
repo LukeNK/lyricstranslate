@@ -4,10 +4,10 @@ layout: base
 
 <main lang="en">
     <p style="display: flex; justify-content: space-between;">
-        <a href="{{ site.url }}">&LeftAngleBracket; Return to home page</a>
+        <span>&LeftAngleBracket; <a href="{{ site.url }}">Return to home page</a></span>
         <span>
             {% for lang in page.trans %}
-                <a id="lang[0]" href="{{lang[1]}}">{{ lang[0] }}</a>
+                <a id="lang-{{ lang[0] }}" href="{{ lang[1] }}">{{ lang[0] }}</a>
             {% endfor %}
             &RightAngleBracket;
         </span>

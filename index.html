@@ -1,9 +1,14 @@
 ---
-title: home
+title: Homepage
 layout: base
 ---
 <main>
-    <h1>List of all the songs:</h1>
+    <div style="display: flex; justify-content: space-around; height: 10rem; align-items: center;">
+        <img src="https://lukenk.github.io/print/letterhead.svg" style="height: inherit;">
+        <h1>Songs' lyrics and translation by LukeNK</h1>
+    </div>
+
+    <h2>List of all the songs:</h2>
     <ul>
         {% assign list = site.pages | sort_natural: "name" %}
         {% for song in list %}
@@ -12,6 +17,7 @@ layout: base
             {% endif %}
         {% endfor %}
     </ul>
+    <h2>List of all the translations:</h2>
     <ul>
         {% for tran in list %}
             {% if tran.path contains 'translations/' %}

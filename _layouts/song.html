@@ -2,10 +2,12 @@
 layout: base
 ---
 
+{% assign page.title = page.name | split: ".md" | first %}
+
 <main lang="{{ page.lang }}">
     <p style="display: flex; justify-content: space-between;">
-        <a href="{{ site.url }}">&LeftAngleBracket; Return to home page</a>
-        <a href="{{ page.link }}">Visit Lyricstranslate &RightAngleBracket;</a>
+        <span>&LeftAngleBracket; <a href="{{ site.url }}">Return to home page</a></span>
+        <span><a href="{{ page.link }}">Visit Lyricstranslate</a> &RightAngleBracket;</span>
     </p>
     <h1>{{ page.name | split: ".md" | first }}</h1>
     {{ content }}

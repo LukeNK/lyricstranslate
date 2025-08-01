@@ -9,7 +9,7 @@ body{
     --color-bg: #f0f0f0;
     --color-bg-theme: #bbd1eaff;
     --color-bg-alt: #dae3e5ff;
-    --glaucous: #507dbcff;
+    --color-theme: #507dbcff;
     --powder-blue: #a1c6eaff;
 
     padding: 0;
@@ -32,6 +32,25 @@ main {
     max-width: 50rem;
     border-radius: 0.5rem;
     background-color: var(--color-bg);
+}
+
+pre {
+    border-left: 0.5rem solid var(--color-theme);
+    padding: 0.5rem;
+    overflow-x: auto;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5rem;
+    margin: 2rem;
+}
+
+footer a {
+    color: var(--color-fg);
+    text-decoration: none;
 }
 
 @media screen and (max-width: 50rem) {
