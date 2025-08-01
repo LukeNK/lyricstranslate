@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/asyu-kashosuru-kikai-lyrics)
-# 歌唱するキカイ
+---
+title: 歌唱するキカイ
+lang: JP
+link: https://lyricstranslate.com/en/asyu-kashosuru-kikai-lyrics
+---
 ```
 電源をさせば君は目を覚ます
 「こんにちは」なんて呟いてみる
@@ -24,7 +27,7 @@
 街の電線を君は駆けだした
 空想と空の感情を
 誰かの思いで満たすため
-\
+
 無茶な音程で困らせたり
 君の顔もうまく描けないけど
 もう一回、次は大丈夫だから

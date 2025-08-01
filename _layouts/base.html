@@ -1,0 +1,19 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Songs lyrics my LukeNK | {{ page.title }}</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            {% for product in collection.products %}
+                {{ product.title }}
+            {% endfor %}
+        </ul>
+    </nav>
+    <main>
+        {{ content }}
+    </main>
+</body>
+</html>
