@@ -1,0 +1,8 @@
+---
+layout: base
+---
+<main lang="{{ page.lang }}">
+    <a href="{{ site.url }}">&LeftAngleBracket; Return to home page</a>
+    <h1>{{ page.name | split: ".md" | first }}</h1>
+    {{ content }}
+</main>

@@ -1,6 +1,6 @@
 ---
-layout: base
-lang: JP
+layout: song
+lang: ja
 link: https://lyricstranslate.com/en/asyu-kashosuru-kikai-lyrics
 ---
 ```
