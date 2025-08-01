@@ -1,5 +1,5 @@
 ---
-title: 歌唱するキカイ
+layout: base
 lang: JP
 link: https://lyricstranslate.com/en/asyu-kashosuru-kikai-lyrics
 ---

@@ -1,0 +1,13 @@
+---
+title: home
+layout: base
+---
+<main>
+    <h1>List of all the songs:</h1>
+    <ul>
+
+        {% for page in site.page %}
+            <li>{{ page.name }}</li>
+        {% endfor %}
+    </ul>
+</main>
