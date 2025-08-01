@@ -1,5 +1,8 @@
-[English](https://lyricstranslate.com/en/leroy-sanchez-greatest-gift-lyrics)
-# The Greatest Gift
+---
+layout: song
+lang: en
+link: https://lyricstranslate.com/en/leroy-sanchez-greatest-gift-lyrics
+---
 ```
 [Chorus]
 The tree's wrapped up in lights

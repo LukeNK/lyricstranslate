@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/tayori-islet-hua-gara-lyrics)
-# 花がら
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/tayori-islet-hua-gara-lyrics
+---
 ```
 思い出すのは木枯らしのこと
 あなたを待ったこの並木通り

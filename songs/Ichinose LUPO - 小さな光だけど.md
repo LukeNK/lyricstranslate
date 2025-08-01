@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/ichinose-lupo-xiao-sanaguang-dakedo-lyrics)
-# 小さな光だけど
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/ichinose-lupo-xiao-sanaguang-dakedo-lyrics
+---
 ```
 君が作った　歌みたいな
 光った　アイスキャンドル

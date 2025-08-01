@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/kdash-ritoru-pare-do-lyrics)
-# リトルパレード
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/kdash-ritoru-pare-do-lyrics
+---
 ```
 呼吸をやめたよ
 ひどく苦しいから

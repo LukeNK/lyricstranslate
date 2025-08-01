@@ -1,5 +1,8 @@
-[English](https://lyricstranslate.com/en/synthion-imaginary-love-story-lyrics)
-# imaginary love story
+---
+layout: song
+lang: en
+link: https://lyricstranslate.com/en/synthion-imaginary-love-story-lyrics
+---
 ```
 [Verse]
 A princess trapped inside a castle

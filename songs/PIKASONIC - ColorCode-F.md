@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/pikasonic-colorcode-f-lyrics)
-# ColorCode-F
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/pikasonic-colorcode-f-lyrics
+---
 ```
 君の夢はどんな色をしているのでしょう
 ここは白いキャンバスに

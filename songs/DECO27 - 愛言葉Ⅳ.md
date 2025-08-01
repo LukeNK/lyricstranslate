@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/deco27-ai-kotoba-iv-lyrics)
-# 愛言葉Ⅳ
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/deco27-ai-kotoba-iv-lyrics
+---
 ```
 想像なんてしてなかった現状　君もそう思った？
 “最高”で止まらないように更新したい

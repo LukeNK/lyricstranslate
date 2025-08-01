@@ -1,5 +1,8 @@
-[Vietnamese](https://lyricstranslate.com/en/nguyen-hai-phong-ba-ke-con-nghe-lyrics)
-# Ba Kể Con Nghe
+---
+layout: song
+lang: vi
+link: https://lyricstranslate.com/en/nguyen-hai-phong-ba-ke-con-nghe-lyrics
+---
 ```
 [Verse 1]
 Khi xưa ba bé hơn đàn

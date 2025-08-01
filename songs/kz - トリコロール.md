@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/kz-torikorooru-lyrics)
-# トリコロール
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/kz-torikorooru-lyrics
+---
 ```
 同一なようで感覚は違うから
 喜びも悲しみも　でもそれでも

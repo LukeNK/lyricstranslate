@@ -1,5 +1,8 @@
-[English](https://lyricstranslate.com/en/kat-united-states-affection-addiction-lyrics)
-# Affection Addiction
+---
+layout: song
+lang: en
+link: https://lyricstranslate.com/en/kat-united-states-affection-addiction-lyrics
+---
 ```
 [Intro]
 Woah I think I’m addicted, I’m addicted

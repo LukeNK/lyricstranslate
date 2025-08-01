@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/ichinose-lupo-alive-lyrics)
-# alive
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/ichinose-lupo-alive-lyrics
+---
 ```
 音が聴こえるその先へ 描き出した言葉が今
 白紙の想いから 溢れ出したから

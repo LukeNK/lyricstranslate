@@ -1,5 +1,8 @@
-[French](https://lyricstranslate.com/en/les-cowboys-fringants-merci-ben-lyrics)
-# Merci ben!
+---
+layout: song
+lang: fr
+link: https://lyricstranslate.com/en/les-cowboys-fringants-merci-ben-lyrics
+---
 ```
 Pour les tavernes de cokés
 Et les bars qui nous ont bookés

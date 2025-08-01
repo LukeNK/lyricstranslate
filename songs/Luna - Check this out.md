@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/luna-check-out-lyrics)
-# Check this out
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/luna-check-out-lyrics
+---
 ```
 ねぇねぇこれ聴いてみてよ
 君の好みじゃなかったかな　だけどね

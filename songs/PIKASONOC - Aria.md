@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/nanatsukaze-aria-lyrics)
-# Aria
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/nanatsukaze-aria-lyrics
+---
 ```
 眠れない夜
 僕らは初めて繋がり合った気がした

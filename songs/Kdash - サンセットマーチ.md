@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/kdash-sansettoma-chi-lyrics)
-# サンセットマーチ
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/kdash-sansettoma-chi-lyrics
+---
 ```
 夕やけ子やけの空が落ちてきた
 寄り添う影踏み手を振ってさよなら

@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/pikasonic-ichi-toruboshi-lyrics)
-# 一透星
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/pikasonic-ichi-toruboshi-lyrics
+---
 ```
 まだ届かない
 僕の心の奥の声は

@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/ichinose-lupo-smile-smile-lyrics)
-# Smile to Smile
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/ichinose-lupo-smile-smile-lyrics
+---
 ```
 ここに居れば君に会えるそんな気がして
 あの日と同じ空を辿って

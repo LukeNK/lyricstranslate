@@ -1,5 +1,8 @@
-[English](https://lyricstranslate.com/en/ros-mo-send-your-bestie-lyrics)
-# Send this to your bestie
+---
+layout: song
+lang: en
+link: https://lyricstranslate.com/en/ros-mo-send-your-bestie-lyrics
+---
 ```
 Hey you're an idiot
 But you're my best friend

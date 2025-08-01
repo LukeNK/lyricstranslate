@@ -1,5 +1,8 @@
-[English](https://lyricstranslate.com/en/ros-mo-yellow-rose-lyrics)
-# Yellow Roses
+---
+layout: song
+lang: en
+link: https://lyricstranslate.com/en/ros-mo-yellow-rose-lyrics
+---
 ```
 I hear my friends find their lovers in different ways
 What else is there to say?

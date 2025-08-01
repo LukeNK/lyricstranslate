@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/luna-sense-lyrics)
-# Sense
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/luna-sense-lyrics
+---
 ```
 誰が空気の振動に
 名前をつけようとしたんだ

@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/asyu-haku-tsubasa-no-yubin-hai-lyrics)
-# 白翼の郵便配達
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/asyu-haku-tsubasa-no-yubin-hai-lyrics
+---
 ```
 空の彼方から　手紙を片手に
 飛び立った天使は　翼をあおぐ

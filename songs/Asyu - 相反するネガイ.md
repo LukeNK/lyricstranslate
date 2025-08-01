@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/asyu-sohansuru-negai-lyrics)
-# 相反するネガイ
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/asyu-sohansuru-negai-lyrics
+---
 ```
 環状線は蔦まみれ
 2000年前に終電を逃した

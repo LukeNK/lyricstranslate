@@ -1,5 +1,8 @@
-[English](https://lyricstranslate.com/en/kira-highlight-lyrics)
-# Highlight
+---
+layout: song
+lang: en
+link: https://lyricstranslate.com/en/kira-highlight-lyrics
+---
 ```
 [Verse]
 Turn it up to the top

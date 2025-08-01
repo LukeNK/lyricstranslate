@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/saiph-pliocene-no-tabibito-lyrics)
-# プリオシンのたびびと
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/saiph-pliocene-no-tabibito-lyrics
+---
 ```
 はるかミライの　とおいとおい宇宙
 ふたりぼっちの　たびびとの　物語

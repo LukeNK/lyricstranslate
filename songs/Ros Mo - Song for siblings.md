@@ -1,5 +1,8 @@
-[English](https://lyricstranslate.com/en/ros-mo-song-siblings-lyrics)
-# Song for siblings
+---
+layout: song
+lang: en
+link: https://lyricstranslate.com/en/ros-mo-song-siblings-lyrics
+---
 ```
 I know I smack you a lot
 And that you've always hit back

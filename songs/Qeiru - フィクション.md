@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/qeiru-fiction-lyrics)
-# フィクション
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/qeiru-fiction-lyrics
+---
 ```
 高架下で待っていた　あの空に落ちないように
 そよ風はからっとして　隠し事もないでいる

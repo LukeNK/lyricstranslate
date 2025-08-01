@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/luna-black-out-lyrics)
-# Black Out
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/luna-black-out-lyrics
+---
 ```
 残酷な運命と　裏腹に季節は過ぎて
 立ち上がれない僕は　ただ太陽を睨むしかなかった

@@ -1,5 +1,8 @@
-[Japanese](https://lyricstranslate.com/en/luna-wander-lyrics)
-# Wander
+---
+layout: song
+lang: ja
+link: https://lyricstranslate.com/en/luna-wander-lyrics
+---
 ```
 この命が　終わるならば
 どんな日が良い？なんて思った
