@@ -6,7 +6,7 @@ layout: base
     <h1>List of all the songs:</h1>
     <ul>
         {% for page in site.pages %}
-            <li><a href="{{page.url}}">{{ page.name }}</a></li>
+            <li><a href="{{site.url}}/{{page.url}}">{{ page.name }}</a></li>
         {% endfor %}
     </ul>
 </main>
