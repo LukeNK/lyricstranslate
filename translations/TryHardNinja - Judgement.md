@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/tryhardninja-judgement-vietnamese)
-# Phán quyết
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/tryhardninja-judgement-vietnamese
+---
+## Phán quyết
 ```
 Chào mừng cậu
 Đến với lòng đất trong vòng tay rộng mở quen thuộc

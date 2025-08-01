@@ -1,5 +1,9 @@
-[English](https://lyricstranslate.com/en/minh-vương-gửi-con-tương-lai-lyrics.html)
-# To You in The Future
+---
+layout: translation
+trans:
+    en: https://lyricstranslate.com/en/minh-vương-gửi-con-tương-lai-lyrics.html
+---
+## To You in The Future
 ```
 My future child
 Do you know that I love Mom very much

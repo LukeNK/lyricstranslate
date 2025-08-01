@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/luna-check-out-vietnamese)
-# Coi cái này đi
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/luna-check-out-vietnamese
+---
+## Coi cái này đi
 ```
 Nè nè, thử nghe cái này đi
 Tớ biết nó không phải là gu của cậu, nhưng mà...

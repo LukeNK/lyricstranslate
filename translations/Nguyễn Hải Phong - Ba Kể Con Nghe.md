@@ -1,5 +1,9 @@
-[English](https://lyricstranslate.com/en/nguyen-hai-phong-ba-ke-con-nghe-english)
-# Let Daddy Tell You
+---
+layout: translation
+trans:
+    en: https://lyricstranslate.com/en/nguyen-hai-phong-ba-ke-con-nghe-english
+---
+## Let Daddy Tell You
 ```
 [Verse 1]
 When I was smaller than the guitar

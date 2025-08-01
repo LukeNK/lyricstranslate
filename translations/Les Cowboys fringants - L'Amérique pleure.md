@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/les-cowboys-fringant-lamerique-pleure-vietnamese)
-# Nước Mỹ khóc
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/les-cowboys-fringant-lamerique-pleure-vietnamese
+---
+## Nước Mỹ khóc
 ```
 Lại một ngày để thức dậy
 Đúng lúc mặt trời vừa lên

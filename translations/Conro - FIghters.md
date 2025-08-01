@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/conro-fighters-vietnamese)
-# Những chiến binh
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/conro-fighters-vietnamese
+---
+## Những chiến binh
 ```
 [Lời 1]
 Không còn kiên nhẫn, khi tôi cảm thấy nản

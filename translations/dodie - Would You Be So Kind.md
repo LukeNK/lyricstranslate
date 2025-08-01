@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/dodie-would-you-be-so-kind-vietnamese)
-# Cậu có thể làm ơn?
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/dodie-would-you-be-so-kind-vietnamese
+---
+## Cậu có thể làm ơn?
 ```
 Tớ có một câu hỏi
 Nó có thể lạ

@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/bo-burnham-kill-yourself-vietnamese)
-# Tự tử đi
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/bo-burnham-kill-yourself-vietnamese
+---
+## Tự tử đi
 ```
 Bạn có bao giờ thấy buồn hay cô đơn?
 Bạn có bao giờ cảm thấy mình thấp kém?

@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/ros-mo-yellow-rose-vietnamese)
-# Bông hồng vàng
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/ros-mo-yellow-rose-vietnamese
+---
+## Bông hồng vàng
 ```
 Tớ thấy bạn mình tìm được người yêu bằng nhiều cách
 Còn gì để nói nữa?

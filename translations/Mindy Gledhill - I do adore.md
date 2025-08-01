@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/mindy-gledhill-i-do-adore-vietnamese)
-# Tớ mến
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/mindy-gledhill-i-do-adore-vietnamese
+---
+## Tớ mến
 ```
 Mọi thứ cậu làm đều khiến tớ
 Đầu óc bay bổng ở trên trời với

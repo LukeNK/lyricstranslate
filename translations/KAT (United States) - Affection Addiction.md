@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/kat-united-states-affection-addiction-vietnamese)
-# Nghiện yêu
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/kat-united-states-affection-addiction-vietnamese
+---
+## Nghiện yêu
 ```
 [Dạo đầu]
 Woah tớ nghĩ tớ bị nghiện, tớ bị nghiện

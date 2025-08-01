@@ -1,5 +1,10 @@
-[English](https://lyricstranslate.com/en/les-cowboys-fringants-merci-ben-lyrics)
-# Thanks a lot!
+---
+layout: translation
+trans:
+    en: https://lyricstranslate.com/en/les-cowboys-fringants-merci-ben-lyrics
+    vi: https://lyricstranslate.com/en/les-cowboys-fringant-merci-ben-vietnamese
+---
+## Thanks a lot!
 ```
 For the bars full of cokeheads
 And the dives that booked us
@@ -89,8 +94,7 @@ Thanks a lot!
 (Thank you!)
 ```
 
-[Vietnamese](https://lyricstranslate.com/en/les-cowboys-fringant-merci-ben-vietnamese)
-# Cảm ơn nhiều!
+## Cảm ơn nhiều!
 ```
 Cho những túp liều đầy thuốc
 Và quán bar mà chúng tôi đặt

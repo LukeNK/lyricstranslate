@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/hamilton-musical-its-quiet-uptown-vietnamese)
-# Nó yên tĩnh ở ngoại thành
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/hamilton-musical-its-quiet-uptown-vietnamese
+---
+## Nó yên tĩnh ở ngoại thành
 ```
 [ANGELICA]
 Có những khoảnh khắc không tả

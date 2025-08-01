@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/yonkagor-top-10-things-do-befor-vietnamese)
-# Top 10 thứ cần làm trước khi bạn chết
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/yonkagor-top-10-things-do-befor-vietnamese
+---
+## Top 10 thứ cần làm trước khi bạn chết
 ```
 (Một)
 Đừng tạm biệt người thân và gia đình

@@ -1,5 +1,9 @@
-[English](https://lyricstranslate.com/en/mafumafu-onnanoko-ni-naritai-english)
-# I Want to Be A Girl
+---
+layout: translation
+trans:
+    en: https://lyricstranslate.com/en/mafumafu-onnanoko-ni-naritai-english
+---
+## I Want to Be A Girl
 ```
 Hey I wanna be a cute pretty girl
 Can I just become one please?

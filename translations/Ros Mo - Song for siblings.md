@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/ros-mo-song-siblings-vietnamese)
-# Bài hát cho hai anh em
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/ros-mo-song-siblings-vietnamese
+---
+## Bài hát cho hai anh em
 ```
 Em biết là em đánh anh nhiều lắm
 Và anh luôn đánh lại

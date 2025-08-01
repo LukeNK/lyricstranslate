@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/natewantstobattle-nightmare-vietnamese)
-# Ác mộng
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/natewantstobattle-nightmare-vietnamese
+---
+## Ác mộng
 ```
 Ngủ đi
 Mơ đi

@@ -1,5 +1,10 @@
-[English](https://lyricstranslate.com/en/ichinose-lupo-smile-smile-english)
-# Smile to Smile
+---
+layout: translation
+trans:
+    en: https://lyricstranslate.com/en/ichinose-lupo-smile-smile-english
+    vi: https://lyricstranslate.com/en/ichinose-lupo-smile-smile-vietnamese
+---
+## Smile to Smile
 ```
 I feel like I am meeting you here
 Under the same sky as that day
@@ -60,8 +65,7 @@ Let me just hear your voice only
 (Smile to Smile) wherever
 ```
 
-[Vietnamese](https://lyricstranslate.com/en/ichinose-lupo-smile-smile-vietnamese)
-# Cười với nhau
+## Cười với nhau
 ```
 Tớ như được gặp cậu ở đây
 Dưới bầu trời như ngày hôm đó

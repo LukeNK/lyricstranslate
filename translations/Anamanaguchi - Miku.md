@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/anamanaguchi-miku-vietnamese)
-# Miku
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/anamanaguchi-miku-vietnamese
+---
+## Miku
 ```
 Miku, Miku, hãy gọi tớ là Miku
 Tóc xanh, cà vạt xanh, trốn ở trong wifi

@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/tangerine-kitty-dumb-ways-die-vietnamese)
-# Những cách ngu để chết
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/tangerine-kitty-dumb-ways-die-vietnamese
+---
+## Những cách ngu để chết
 ```
 Đốt tóc bạn
 Chọt một con gấu xám

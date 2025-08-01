@@ -1,5 +1,9 @@
-[English](https://lyricstranslate.com/en/tran-thien-thanh-lau-dai-tinh-ai-english)
-# Castle of Love
+---
+layout: translation
+trans:
+    en: https://lyricstranslate.com/en/tran-thien-thanh-lau-dai-tinh-ai-english
+---
+## Castle of Love
 ```
 Because of you I will write love poems
 I will make a castle from clouds

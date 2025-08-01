@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/bighead-sharing-world-vietnamese)
-# Chia sẻ thế giới
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/bighead-sharing-world-vietnamese
+---
+## Chia sẻ thế giới
 ```
 Chia sẻ thế giới của nhau
 Chia sẻ thế giới của nhau

@@ -1,5 +1,9 @@
-[Vietnamese](https://lyricstranslate.com/en/leroy-sanchez-greatest-gift-vietnamese)
-# Món quà tuyệt nhất
+---
+layout: translation
+trans:
+    vi: https://lyricstranslate.com/en/leroy-sanchez-greatest-gift-vietnamese
+---
+## Món quà tuyệt nhất
 ```
 [Điệp khúc]
 Cái cây được phủ bởi đèn

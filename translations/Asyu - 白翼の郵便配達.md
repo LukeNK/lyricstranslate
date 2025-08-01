@@ -1,5 +1,10 @@
-[English](https://lyricstranslate.com/en/asyu-haku-tsubasa-no-yubin-hai-lyrics)
-# A Letter From Heaven
+---
+layout: translation
+trans:
+    en: https://lyricstranslate.com/en/asyu-haku-tsubasa-no-yubin-hai-english
+    vi: https://lyricstranslate.com/en/asyu-haku-tsubasa-no-yubin-hai-vietnamese
+---
+## A Letter From Heaven
 ```
 In the sky, a letter in hand
 An angel flying, flapping her wings
@@ -29,8 +34,7 @@ Caressing someone's cheek
 
 Based on the original video's English translation. Title's translation kept from the author's translation; the literal translation is "White Winged Postman"
 
-[Vietnamese](https://lyricstranslate.com/en/asyu-haku-tsubasa-no-yubin-hai-vietnamese)
-# Thiên thần đưa thư
+## Thiên thần đưa thư
 ```
 Từ cuối trời, một lá thư trong tay
 Một thiên thần lượn là vỗ cánh
