@@ -11,17 +11,39 @@ layout: base
     <h2>List of all the songs:</h2>
     <ul>
         {% assign list = site.pages | sort_natural: "name" %}
+
+        {% assign curName = "" %}
         {% for song in list %}
             {% if song.path contains 'songs/' %}
-                <li><a href=".{{ song.url }}">{{ song.name | split: ".md" | first }}</a></li>
+                {% assign songName = song.name | split: " - " | first %}
+                <li>
+                    {% if songName != curName %}
+                        <span>{{ songName }}</span>
+                        {% assign curName = songName %}
+                    {% else %}
+                        <span></span>
+                    {% endif %}
+                    <a href=".{{ song.url }}">{{ song.name | split: ".md" | first | split: " - " | last }}</a>
+                    <code>{{ song.lang | upcase }}</code>
+                </li>
             {% endif %}
         {% endfor %}
     </ul>
     <h2>List of all the translations:</h2>
     <ul>
-        {% for tran in list %}
-            {% if tran.path contains 'translations/' %}
-                <li><a href=".{{ tran.url }}">{{ tran.name }}</a></li>
+        {% for song in list %}
+            {% if song.path contains 'translations/' %}
+                {% assign songName = song.name | split: " - " | first %}
+                <li>
+                    {% if songName != curName %}
+                        <span>{{ songName }}</span>
+                        {% assign curName = songName %}
+                    {% else %}
+                        <span></span>
+                    {% endif %}
+                    <a href=".{{ song.url }}">{{ song.name | split: ".md" | first | split: " - " | last }}</a>
+                    <code>{% for tran in song.trans %} {{ tran[0] | upcase }} {% endfor %}</code>
+                </li>
             {% endif %}
         {% endfor %}
     </ul>
