@@ -26,7 +26,7 @@ Okay, giờ
 Tôi thấy bạn có vẻ bất ngờ
 Có lẽ phải công nhận rằng tôi cứ kêu bạn tự tử hoài
 Tôi chỉ đang cố gắng chứng minh một điều
-Rằng... những vấn đề khó nhất trong cuộc sống không có câu trả lời dễ dàng
+Rằng... những vấn đề khó nhất trong cuộc sống không có câu trả lời đơn giản
 Bạn không chỉ cần dũng cảm
 Bạn không chỉ cần vùng lên
 Bạn không cần tự tử
@@ -36,14 +36,14 @@ Và tôi đã đối diện với-- tôi không muốn vô[fn]Giống insensitiv
 
 Tôi có vẻ vô tâm
 Tôi có vẻ xấu tính và thô lỗ
-Tự tử là một dịch bệnh
+Tự tử là một đại dịch
 Và tôi không muốn bị hiểu lầm
 Dấu hiệu của trầm cảm bị bỏ qua
 Nên nếu bạn đang trầm cảm
 Thì bạn cần đặt một buổi khám tâm lý
 Nói về trầm cảm của bạn
 Và để một chuyên gia nghe về chúng
-Nhưng nếu bạn tìm lời khuyên trong lời của Katy Perry, thì
+Nhưng nếu bạn tìm lời khuyên trong lời hát của Katy Perry, thì
 
 Tự tử đi, nó không có đau đâu
 Nếu bạn có thể
