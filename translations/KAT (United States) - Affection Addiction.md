@@ -44,7 +44,7 @@ Vì tớ quá là đầu tư, tớ thấy như bị nhập
 Tớ có quá là điên khi muốn cả hai cuồng lẫn nhau?
 
 Nhìn vào mắt tớ, nói cậu cần tớ để sống
-Mọi thứ để khến cậu là của tớ, dù chỉ cho thêm một đêm nữa
+Mọi thứ để khiến cậu là của tớ, dù chỉ cho thêm một đêm nữa
 Vậy cậu có nghĩ cuộc sống là địa ngục và tớ là một tia hy vọng?
 Hay là cậu biết rằng tớ biết là cậu đéo[fn]fuck: đéo[/fn] quan tâm
 
