@@ -3,15 +3,21 @@ layout: base
 ---
 
 <main lang="en">
-    <p style="display: flex; justify-content: space-between;">
+    <nav>
         <span>&LeftAngleBracket; <a href="{{ site.url }}">Return to home page</a></span>
+        {% for song in site.pages %}
+            {% if song.name == page.name and song.dir != page.dir %}
+                <span>~ <a href="{{ site.url }}{{ song.url }}">Original {{ song.lang | upcase }}</a> ~</span>
+                {% break %}
+            {% endif %}
+        {% endfor %}
         <span>
             {% for lang in page.trans %}
-                <a id="lang-{{ lang[0] }}" href="{{ lang[1] }}">{{ lang[0] }}</a>
+                <a id="lang-{{ lang[0] }}" href="{{ lang[1] }}">{{ lang[0] | upcase }}</a>
             {% endfor %}
             &RightAngleBracket;
         </span>
-    </p>
+    </nav>
     <h1>{{ page.name | split: ".md" | first }}</h1>
     {{ content }}
 </main>

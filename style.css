@@ -60,6 +60,21 @@ ul li code {
 }
 
 /* Lyrics page */
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+nav span {
+    flex: 1 0 0;
+    text-align: center;
+}
+nav span:first-child {
+    text-align: left;
+}
+nav span:last-child {
+    text-align: right;
+}
+
 pre {
     border-left: 0.5rem solid var(--color-theme);
     padding: 0.5rem;
