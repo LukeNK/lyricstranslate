@@ -21,6 +21,16 @@ body{
     font-optical-sizing: auto;
 }
 
+header {
+    display: flex;
+    justify-content: space-around;
+    height: 10rem;
+    align-items: center;
+}
+header img {
+    height: inherit;
+}
+
 main {
     margin: 2rem auto;
     padding: 1rem;
@@ -28,7 +38,6 @@ main {
     border-radius: 0.5rem;
     background-color: var(--color-bg);
 }
-
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Comfortaa", sans-serif;
