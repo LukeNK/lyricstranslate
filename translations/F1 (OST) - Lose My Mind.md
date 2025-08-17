@@ -42,7 +42,7 @@ Tôi làm đường cho họ
 Nhận nỗi đau, nhân đôi nó, để nó vào sóng âm[fn]Wave form: ám chỉ về sóng âm thanh của nhạc[/fn]
 Khá chắc là cậu không được làm cho các vấn đề[fn]Ý là cậu không thể đối mặt với các vấn đề được[/fn]
 Giữ những tiếng reo
-Tôi nói họ trò chơi bắt đầu giây phú tôi đi lên
+Tôi nói họ trò chơi bắt đầu giây phút tôi đi lên
 
 Yeah, nó cảm thấy
 Thật tốt, tôi như có thể mất trí
