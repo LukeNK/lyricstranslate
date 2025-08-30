@@ -13,7 +13,7 @@ Tracing the footprints you left, the lights and the sounds that you made
 Connect your heart, to my feelings, like a straight line, a snow path
 
 Cover it with my hands, I won't lose sight of it
-So wind will not turn it off
+So wind will not blow it off
 Because you're here in this small town, painted on the white canvas of the snow
 
 A melody you played, a song that you created
