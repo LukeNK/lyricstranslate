@@ -1,7 +1,7 @@
 ---
 layout: song
 lang: ja
-link: https://lyricstranslate.com/en/luna-rasuto-rasu-lyrics
+link: https://lyricstranslate.com/en/asyu-re-tenshi-no-nyu-ge-mu-lyrics
 video: https://www.youtube.com/watch?v=HjAtJWusDT4
 ---
 ```
