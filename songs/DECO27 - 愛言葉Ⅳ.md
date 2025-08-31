@@ -2,6 +2,7 @@
 layout: song
 lang: ja
 link: https://lyricstranslate.com/en/deco27-ai-kotoba-iv-lyrics
+video: https://youtube.com/watch?v=aHNWL7MBXoc
 ---
 ```
 想像なんてしてなかった現状　君もそう思った？

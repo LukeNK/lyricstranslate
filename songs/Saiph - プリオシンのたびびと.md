@@ -2,6 +2,7 @@
 layout: song
 lang: ja
 link: https://lyricstranslate.com/en/saiph-pliocene-no-tabibito-lyrics
+video: https://youtube.com/watch?v=XMNfA0-WlMY
 ---
 ```
 はるかミライの　とおいとおい宇宙

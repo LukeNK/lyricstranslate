@@ -2,6 +2,7 @@
 layout: song
 lang: ja
 link: https://lyricstranslate.com/en/tayori-islet-hua-gara-lyrics
+video: https://youtu.be/WS1_5zEUwP4
 ---
 ```
 思い出すのは木枯らしのこと
