@@ -2,6 +2,7 @@
 layout: song
 lang: ja
 link: https://lyricstranslate.com/en/kdash-sansettoma-chi-lyrics
+video: https://youtu.be/ZLqrcMzbQAg
 ---
 ```
 夕やけ子やけの空が落ちてきた
