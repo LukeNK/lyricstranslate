@@ -6,63 +6,70 @@ trans:
 ---
 ## Smile to Smile
 ```
-I feel like I am meeting you here
-Under the same sky as that day
+[Verse]
+Waiting you here, under the same blue sky on that day
+I feel like, we will meet, just like that promise we made
 
-I once saw you at the other end of the radio wave
-Connected to a distant unknown world
+I saw you on the other end, of this radio wave to the blue sky
+Connected to a distant world, previously unknown to us
 
-Even if the colour you painted is not vibrant
-Even if the sound you played is not pleasant
-This is a place where you can be yourself
-Even if it is nonsense, you can try again
-Draw a tomorrow that no one knows
-Let me just hear your voice only
+[Chorus]
+Even if the colours you painted are not right
+Even if all the notes you played all sounded so messy
+Come right here stay by my side, where you can be yourself
+If it doesn't make sense, turn the page again
+Start a tomorrow with the sun rise that is only for us
+Let me hear just your voice, that only you can sing, your true feelings
 
-(Smile to Smile) with you
+(Smile to Smile) only you
 (Smile to Smile) forever
 (Smile to Smile) whenever
-(Smile to Smile) wherever
+(Smile to Smile) wherever with you
 
-Let's carry this voice to greet tomorrow
-Heading toward the unknown now
+[Verse]
+Carrying this voice, let's go and welcome a bright tomorrow
+Heading toward, the unknown, waiting us to discover
 
-Thinking of you on the other side of the world
-Are you seeing the page I read on that day?
+As if I were thinking of you, on the other side of the horizon
+The bookmark I left on that day, are you reading the page that I saw?
 
-Here are billions of different sparkles
-Becoming one in this instant
-For me to be myself
-Proving that you can be you
-I believe in this one thing
-So I look for it
+[Chorus]
+Gathered here are billions of tiny lights, and here are the little sparkles that made of you and me
+Becoming one this second, together shine the sky
+For me to be myself today right here
+Proving that you can be yourself, the person that you wanted
+Because I believe in this, I keep searching for it
+I look for you
 
-Even if it is painful, crying because of the worries
-This time is yours to change
-The darkness and the endless rain is over
-Let's go and paint the rainbow hangs above us
+[Bridge]
+And all the pains, crying 'cause of all the worries
+You can change everything in this instant
+The endless rain, and the darkness is finally over
+Let's go and clear the clouds, make way for us to paint a rainbow ahead
 
-Even if the colour you painted is not vibrant
-Even if the sound you played is not pleasant
-This is a place where you can be yourself
-Even if it is nonsense, you can try again
-Draw a tomorrow that no one knows
-Let me just hear your voice only
+[Chorus]
+Even if the colours you painted are not right
+Even if all the notes you played all sounded so messy
+Come right here stay by my side, where you can be yourself
+If it doesn't make sense, turn the page again
+Start a tomorrow with the sun rise that is only for us
+Let me hear just your voice, that only you can sing, your true feelings
 
-(Smile to Smile) with you
+(Smile to Smile) only you
 (Smile to Smile) forever
 (Smile to Smile) whenever
-(Smile to Smile) wherever
+(Smile to Smile) wherever with you
 
 (Smile to Smile) until the end
-(Smile to Smile) eternally
+(Smile to Smile) for every day
 (Smile to Smile) tomorrow too
-(Smile to Smile) from now on too
+(Smile to Smile) from now on
 
-(Smile to Smile) with you
+[Outro]
+(Smile to Smile) only you
 (Smile to Smile) forever
 (Smile to Smile) whenever
-(Smile to Smile) wherever
+(Smile to Smile) wherever with you
 ```
 
 ## Cười với nhau
