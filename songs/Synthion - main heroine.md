@@ -4,6 +4,7 @@ lang: en
 link: https://lyricstranslate.com/en/synthion-main-heroine-lyrics
 ---
 ```
+[Verse]
 Lost in time
 Forgotten and ignored
 Out of place
@@ -18,6 +19,7 @@ I can't depend
 I'm on my own
 Forever, ever, ever, and forevermore
 
+[Chorus]
 I reach out my hand to an empty void
 I search for the answers of an unknown world
 I write out my life as my story unfolds
@@ -30,6 +32,7 @@ I hope, one day I can be the main heroine
 
 Whoa~
 
+[Verse]
 Left behind
 Out of mind and out of sight
 Still, I stand
@@ -48,6 +51,7 @@ I'll save my life
 Again, again, again, again,
 Again, again, again, again, and over again
 
+[Chorus]
 I reached out my hand to an empty void
 I searched for the answers of an unknown world
 I wrote out my life as my story unfolds
@@ -60,6 +64,7 @@ that I've already become the main heroine
 
 Whoa~
 
+[Outro]
 "Even if I'm okay with being in the sidelines
 Even if I'm fine with being an afterthought
 Even if I've accepted being outside of the spotlight
