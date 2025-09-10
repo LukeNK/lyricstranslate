@@ -2,6 +2,7 @@
 layout: song
 lang: en
 link: https://lyricstranslate.com/en/synthion-astroemeria-lyrics
+video: https://www.youtube.com/watch?v=Ox9_BiJxCg0
 ---
 ```
 [Verse]
