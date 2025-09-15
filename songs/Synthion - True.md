@@ -44,4 +44,4 @@ Even now it still feels like a far-off dream but
 Somehow together we will make it true
 ```
 
-From 2ECONDS TO STΔRLIVHT, lyrics from the video's description.
+From NOISZ STΔRLIVHT, lyrics from the video's description.
