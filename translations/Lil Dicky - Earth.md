@@ -173,4 +173,24 @@ Tớ sẽ không nói dối cậu
 
 [Ariana Grande]
 Nếu như chúng ta không làm cái cức gì
+
+[Lil Dicky]
+Mọi người, mọi người nên nhìn mấy cái thứ Leonardo DiCaprio luôn cố gắng, vì tôi cảm thấy là anh ta biết nhiều về... trái đất và cách mà chúng ta đang phá nó hơn... bất kì ai khác!
+Nếu người ngoài hành tinh thật sự đến, chúng ta nên gửi Leo là người của chúng ta, người đại diện của chúng ta
+Thật ra, lợi nhuận có được từ các lần nghe và bán của bài hát này sẽ được đưa vào trái đất
+Hãy cùng gây quỹ từ thiện
+Muốn thêm gì không, Leo?
+
+[Leonardo DiCaprio]
+Đây có lẽ là bài hát yêu tích nhất của tôi. Nó tuyệt vời
+
+[Lil Dicky]
+Wow. Cảm ơn, Leo
+
+[Lời kết: Backstreet Boys]
+Chúng ta yêu trái đất, nó là hành tinh của ta
+Chúng ta yêu trái đất, nó là nhà ta
+Chúng ta yêu trái đất, nó là hành tinh của ta
+Chúng ta yêu trái đất, nó là nhà ta
+(Ooh, ooh, ooh, ah, ah, ah, ah, ah! Woo, hoo, hoo!)
 ```
