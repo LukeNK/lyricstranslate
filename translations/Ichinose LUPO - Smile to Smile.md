@@ -18,7 +18,7 @@ Even if the colours you painted are not right
 Even if all the notes you played all sounded so messy
 Come right here stay by my side, where you can be yourself
 If it doesn't make sense, turn the page again
-Start a tomorrow with the sun rise that is only for us
+Start a tomorrow with the sunrise that's only for us
 Let me hear just your voice, that only you can sing, your true feelings
 
 (Smile to Smile) only you
@@ -52,7 +52,7 @@ Even if the colours you painted are not right
 Even if all the notes you played all sounded so messy
 Come right here stay by my side, where you can be yourself
 If it doesn't make sense, turn the page again
-Start a tomorrow with the sun rise that is only for us
+Start a tomorrow with the sunrise that's only for us
 Let me hear just your voice, that only you can sing, your true feelings
 
 (Smile to Smile) only you
