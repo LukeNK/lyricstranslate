@@ -3,6 +3,7 @@ layout: translation
 trans:
     en: https://lyricstranslate.com/en/ichinose-lupo-xiao-sanaguang-dakedo-english-0
 ---
+## A Little Light
 ```
 A melody you played, a song that you created
 An ice candle, warming up the night
