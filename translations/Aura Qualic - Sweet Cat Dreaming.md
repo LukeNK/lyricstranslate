@@ -4,6 +4,7 @@ trans:
     en: https://lyricstranslate.com/en/aura-qualic-sweet-cat-dreaming-english
 ---
 # Sweet Cat Dreaming
+Singable
 ```
 It doesn't matter if, there's an orange sun
 The little kitten, curled into a fur ball
@@ -50,3 +51,4 @@ Like a cat, on the floor, fall into a dream
 
 Fall into a dream
 ```
+I don't have a cat, I have no intention to have one, but I love cats anyway.
