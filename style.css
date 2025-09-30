@@ -83,6 +83,11 @@ nav span:first-child {
 nav span:last-child {
     text-align: right;
 }
+.vid-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
 
 pre {
     border-left: 0.5rem solid var(--color-theme);
