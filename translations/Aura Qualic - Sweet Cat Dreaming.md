@@ -4,7 +4,7 @@ trans:
     en: https://lyricstranslate.com/en/aura-qualic-sweet-cat-dreaming-english
 ---
 # Sweet Cat Dreaming
-Singable
+Singable lyrics
 ```
 It doesn't matter if, there's an orange sun
 The little kitten, curled into a fur ball

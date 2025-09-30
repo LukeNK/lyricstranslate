@@ -5,6 +5,7 @@ trans:
     vi: https://lyricstranslate.com/en/ichinose-lupo-smile-smile-vietnamese
 ---
 ## Smile to Smile
+Singable lyrics
 ```
 [Verse]
 Waiting you here, under the same blue sky on that day

@@ -4,6 +4,7 @@ trans:
     en: https://lyricstranslate.com/en/luna-bokura-no-natsu-wa-mata-m-english
 ---
 ## Our Summer Will Come Again
+Singable lyrics
 ```
 [Verse]
 The summer is calling to me, through the wide crevice a blazing heat

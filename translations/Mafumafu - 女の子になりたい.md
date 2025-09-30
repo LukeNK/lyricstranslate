@@ -4,6 +4,7 @@ trans:
     en: https://lyricstranslate.com/en/mafumafu-onnanoko-ni-naritai-english
 ---
 ## I Want to Be A Girl
+Singable lyrics
 ```
 Hey I wanna be a cute pretty girl
 Can I just become one please?
