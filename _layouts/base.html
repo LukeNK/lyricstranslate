@@ -2,13 +2,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{{ site.url }}/style.css">
+    <link rel="shortcut icon" href="https://lukenk.github.io/print/letterhead.svg" type="image/x-icon">
+
     {% assign check = page.name | split: "." | last %}
     {% if check == "md" %}
         <title>{{ page.name | split: ".md" | first }}</title>
     {% else %}
         <title>Songs lyrics by LukeNK | {{ title }}</title>
     {% endif %}
+
+    <link rel="stylesheet" href="{{ site.url }}/style.css">
 </head>
 <body>
     {{ content }}
