@@ -49,7 +49,7 @@ Tự tử đi, nó không có đau đâu
 Nếu bạn có thể
 Trao nụ hôn cho xe lửa đang chạy đến, bạn sẽ
 Tự tử, nó là kết thúc, nghĩ đi
-Có một cái còi, bấm nó đi
+Có một cái cò, bấm nó đi
 Để nó thấm vào não, "nó" là một viên đạn
 
 Lè lưỡi vào một ổ điện
