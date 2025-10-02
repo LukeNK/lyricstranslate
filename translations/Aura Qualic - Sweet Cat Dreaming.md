@@ -23,8 +23,8 @@ Between the steady breaths, there is a smiling face
 There's a gentle breeze, softly play with the cat's fur
 It purrs happily, the ears twitch, ask for someone to pet
 
-Hey, why does the sun is setting
-Why does, the clock is still moving
+Hey, why is the sun still setting
+And why, the clock is still moving
 Stretching out the round body, a lazy yawn to move the tail
 
 The eyelids are being heavy
@@ -51,4 +51,5 @@ Like a cat, on the floor, fall into a dream
 
 Fall into a dream
 ```
+
 I don't have a cat, I have no intention to have one, but I love cats anyway.
