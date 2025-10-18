@@ -64,15 +64,15 @@ Bạn để ông ta quay lại để ông ấy có thể chối
 Năm!
 
 [Lee]
-Đấu súng trướng khi mặt trời ở trên trời
+Đấu súng trước khi mặt trời ở trên trời
 
 [Đoàn hát]
-Chọn một nơi để chết mà cao và khô
+Chọn một nơi để chết cao và khô
 Số sáu!
 
 [Hamilton]
 Để một tờ ghi chú cho người thân gần nhất
-Nói họ bạn đã ở đâu. Cầu cho địa ngục hay thiên đàn cho bạn vào
+Nói họ bạn đã ở đâu. Cầu cho địa ngục hay thiên đàng cho bạn vào
 
 [Đoàn hát]
 Bảy!
@@ -85,7 +85,7 @@ Số tám
 
 [Laurens / Lee / Hamilton / Burr]
 Cơ hội cuối để thương lượng
-Gửi người thay mặt, xem họ có thể làm rõ mọi chuyện với nhau
+Gửi người thay mặt, xem họ có thể làm rõ mọi chuyện
 
 [Burr]
 Alexander
