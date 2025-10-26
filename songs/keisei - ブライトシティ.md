@@ -1,7 +1,7 @@
 ---
 layout: song
 lang: ja
-link: https://lyricstranslate.com/en/asyu-re-tenshi-no-nyu-ge-mu-lyrics
+link: https://lyricstranslate.com/en/keisei-bright-city-lyrics
 video: https://www.youtube.com/watch?v=HjAtJWusDT4
 ---
 ```
@@ -27,7 +27,7 @@ video: https://www.youtube.com/watch?v=HjAtJWusDT4
 頭覆う　未来の機械で
 僕が欲しいのは　他でもない　ともだち
 
-今僕は生まれた　この<ruby>仮想<rp>（</rp><rt>bright</rt><rp>）</rp></ruby><ruby>都市<rp>（</rp><rt>city</rt><rp>）</rp></ruby>に
+今僕は感じた　この<ruby>仮想<rp>（</rp><rt>bright</rt><rp>）</rp></ruby><ruby>都市<rp>（</rp><rt>city</rt><rp>）</rp></ruby>で
 ビルは遥か高く　喧騒は憂い飛ばす
 全自動の街並み　三丁目のいろは通り
 何の問題も無く　人は笑顔を交わす
@@ -35,12 +35,12 @@ video: https://www.youtube.com/watch?v=HjAtJWusDT4
 都市の頭脳担う　自律制御ロボット
 僕はその右手を　左手で握った
 赤い光放ち　淡く繋ぐ感情
-君の<ruby>次の言葉<rp>（</rp><rt>next　message</rt><rp>）</rp></ruby>　「トモダチ」
+君の<ruby>次の言葉<rp>（</rp><rt>next message</rt><rp>）</rp></ruby>　「トモダチ」
 
 ずっと　このままずっと
 無限の日々に溺れてゆく
 
-今僕は生まれた　この<ruby>仮想<rp>（</rp><rt>bright</rt><rp>）</rp></ruby><ruby>都市<rp>（</rp><rt>city</rt><rp>）</rp></ruby>に
+今僕は祈った　この<ruby>仮想<rp>（</rp><rt>bright</rt><rp>）</rp></ruby><ruby>都市<rp>（</rp><rt>city</rt><rp>）</rp></ruby>で
 僕が生きる意味と　世界終わる理由を
 全自動の街並み　四つ先の信号
 逃げてきた現実　未来装置投げ捨て
