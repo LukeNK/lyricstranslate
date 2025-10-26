@@ -1,0 +1,35 @@
+---
+layout: base
+title: Ruby text generator
+---
+<main>
+    <pre><code></code></pre>
+    <hr>
+    <div>Test message</div>
+    <hr>
+    <label>
+        Outside
+        <input type="text" id="out">
+    </label>
+    <label>
+        Top
+        <input type="text" id="top">
+    </label>
+    <button onclick="create()">Create ruby text</button>
+</main>
+
+<script>
+    function create() {
+        const out = document.getElementById("out").value.trim()
+        const top = document.getElementById("top").value.trim()
+        const rubyText = `<ruby>${out}<rp>（</rp><rt>${top}</rt><rp>）</rp></ruby>`;
+        document.querySelector("code").textContent = rubyText;
+        document.querySelector("div").innerHTML = rubyText;
+    }
+
+    document.onkeypress = e => {
+        if (e.key === "Enter") {
+            create();
+        }
+    };
+</script>
