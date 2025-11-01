@@ -1,26 +1,28 @@
 ---
 layout: translation
 trans:
-    vi: https://lyricstranslate.com/en/lunaby-blue-smile-ocean-sky-english
+    en: https://lyricstranslate.com/en/lunaby-blue-smile-ocean-sky-english
+    vi: https://lyricstranslate.com/en/lunaby-blue-smile-ocean-sky-vietnamese
 ---
 ## Blue Smile (Ocean, Sky and You)
+Poetic, singable
 ```
 [Verse]
-In the middle of the dark
-Someone is still dreaming
-Hands sketching nonstop
-The eyelashes twitching
-Where the unknown depth of the deep ocean
-Where the blue sky white clouds floating
-Lost in a maze, oh no
-Only need to know a thing is
+In the middle of the night
+Somebody is still dreaming
+Hands keep drawing, nonstop sketching
+The little eyes twitching
+In the depth of the ocean
+On the sky fly with the clouds
+Or in a maze, oh no I'm lost
+But I know that there is
 
 [Chorus]
-One, two, three! Let's smile
-You are the bright moon twinkling on the sky
-If there is sadness then throw it away, don't keep it in your heart
-For a future no longer sobbing in the middle of the night
-Do you know
+One, two, three! Have a big smile
+You are the shiny moonlight up on the sky
+Take all the sadness away out of your heart
+For tomorrow night no more sobbing
+Do you know that
 
 The sky is blue, the clouds are white
 And nothing is better than your smile
@@ -33,21 +35,21 @@ Fly high into the sky
 Together, you and I
 
 [Verse]
-Take a deep breath, my baby
-Continue to walk don't mind the pains, my baby
-Because life still have a lot of challenges
-But we still hope that one day
-Keep the habits of strolling on the sidewalks
-No longer being tangled in the dark late night
-Complete the painting, put on the blue[fn]"Xanh" can be blue or green[/fn] shirt
-Beautiful like the stars on the sky
+Take a breath very deep, my baby
+Keep walking don't worry, my baby
+Far ahead is still rainy
+But we wait for a clear day
+Stroll on the sidewalks out of habit
+No more thinking in the dark nights
+Finish paintings, wear the blue dress
+Shine like the stars on the sky
 
 [Chorus]
-One, two, three! Let's smile
-You are the bright moon twinkling on the sky
-If there is sadness then throw it away, don't keep it in your heart
-For a future no longer sobbing in the middle of the night
-Do you know
+One, two, three! Have a big smile
+You are the shiny moonlight up on the sky
+Take all the sadness away out of your heart
+For tomorrow night no more sobbing
+Do you know that
 
 The sky is blue, the clouds are white
 And nothing is better than your smile
@@ -60,15 +62,15 @@ Fly high into the sky
 Together, you and I
 
 [Bridge]
-Even when the wishes are not fulfilled
-We still swim in the blue river
-To the stormy high sea
-Watch the shiny sparking surface
+When the hopes do not come true
+We still swim on the river
+To the sea no one has been
+Look at the rolling blue waves
 
-We will have a ticket
-For the hardships to end quickly
-For the dreams to be no longer fragile
-Realize a blue dream
+We will get a travel pass
+For hardships to go away
+For the dreams to be closer
+Realize the deepest wishes
 
 [Chorus]
 The sky is blue, the clouds are white
