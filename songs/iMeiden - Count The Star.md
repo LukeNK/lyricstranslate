@@ -2,7 +2,7 @@
 layout: song
 lang: en
 link: https://lyricstranslate.com/en/imeiden-count-star-lyrics
-video: https://www.youtube.com/watch?v=hmsYCq7Dl8k
+video: https://www.youtube.com/watch?v=OsE-4UsqVGs
 ---
 ```
 [Verse 1]

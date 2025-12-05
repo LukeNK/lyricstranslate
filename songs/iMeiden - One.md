@@ -2,7 +2,7 @@
 layout: song
 lang: en
 link: https://lyricstranslate.com/en/imeiden-one-lyrics
-video: https://www.youtube.com/watch?v=65itdyLtVKc
+video: https://www.youtube.com/watch?v=udo_W6Ib0qY
 ---
 ```
 [Verse 1]

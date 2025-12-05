@@ -2,7 +2,7 @@
 layout: song
 lang: en
 link: https://lyricstranslate.com/en/imeiden-tower-light-fireworks-lyrics
-video: https://www.youtube.com/watch?v=DAppv4XdKMM
+video: https://www.youtube.com/watch?v=PEanKB0ggNY
 ---
 ```
 [Verse 1]
