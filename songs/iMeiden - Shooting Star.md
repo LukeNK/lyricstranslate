@@ -5,7 +5,6 @@ link: https://lyricstranslate.com/en/imeiden-shooting-star-lyrics
 video: https://www.youtube.com/watch?v=FZomFEIzo-c
 ---
 ```
-[Verse 1]
 By the lines of falling starlight and dust
 In these nights, I dream of you
 And silent motions
@@ -18,7 +17,6 @@ Fuzzy remnants
 Smiling faces
 Things you showed me that I'd never seen
 
-[Chorus]
 Chasing you
 In the night
 To the sky
@@ -37,7 +35,6 @@ All around
 As I shout
 Your name
 
-[Verse 2]
 Never having seen your face yet before
 Even then you came again
 As if our fates had
@@ -50,7 +47,6 @@ Something real and
 Something lasting
 Something that I'll never give away
 
-[Chorus]
 Flying by
 On this star
 Going far
