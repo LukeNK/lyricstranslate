@@ -27,7 +27,7 @@ Cậu không thể quyết định
 Ai sống, ai chết, ai kể câu chuyện của cậu
 
 [Washington]
-Tôi biết rằng ta có thể sống
+Tôi biết rằng ta có thể thắng
 Tôi biết rằng sự vĩ đại ở trong cậu
 Nhưng hãy nhớ từ bây giờ
 
