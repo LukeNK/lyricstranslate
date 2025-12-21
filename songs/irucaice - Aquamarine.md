@@ -1,7 +1,7 @@
 ---
 layout: song
 lang: ja
-link:
+link: https://lyricstranslate.com/en/irucaice-aquamarine-lyrics
 video: https://www.youtube.com/watch?v=LbZRhLtil-U
 ---
 ```
