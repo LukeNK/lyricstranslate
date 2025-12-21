@@ -15,13 +15,17 @@ layout: base
         {% assign list = site.pages | sort_natural: "name" %}
 
         {% assign curName = "" %}
+        {% assign songCount = 0 %}
+        {% assign artistCount = 0 %}
         {% for song in list %}
             {% if song.path contains 'songs/' %}
                 {% assign songName = song.name | split: " - " | first %}
+                {% assign songCount = songCount | plus: 1 %}
                 <li>
                     {% if songName != curName %}
                         <span>{{ songName }}</span>
                         {% assign curName = songName %}
+                        {% assign artistCount = artistCount | plus: 1 %}
                     {% else %}
                         <span></span>
                     {% endif %}
@@ -31,15 +35,25 @@ layout: base
             {% endif %}
         {% endfor %}
     </ul>
+    <p class="report">{{ songCount }} songs of {{ artistCount }} artists</p>
+
+
     <h2>List of all the translations:</h2>
     <ul>
+        {% assign songCount = 0 %}
+        {% assign transCount = 0 %}
+        {% assign artistCount = 0 %}
         {% for song in list %}
             {% if song.path contains 'translations/' %}
                 {% assign songName = song.name | split: " - " | first %}
+                {% assign songCount = songCount | plus: 1 %}
+                {% assign languages = song.trans | size %}
+                {% assign transCount = transCount | plus: languages %}
                 <li>
                     {% if songName != curName %}
                         <span>{{ songName }}</span>
                         {% assign curName = songName %}
+                        {% assign artistCount = artistCount | plus: 1 %}
                     {% else %}
                         <span></span>
                     {% endif %}
@@ -49,4 +63,5 @@ layout: base
             {% endif %}
         {% endfor %}
     </ul>
+    <p class="report">{{ transCount }} translations of {{ songCount }} songs of {{ artistCount }} artists</p>
 </main>

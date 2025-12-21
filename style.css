@@ -53,6 +53,10 @@ a:hover {
 }
 
 /* Home page */
+.report {
+    text-align: right;
+    font-style: italic;
+}
 ul {
     list-style: none;
 }
