@@ -12,56 +12,48 @@ layout: base
 
     <h2>List of all the songs:</h2>
     <ul>
-        {% assign list = site.pages | sort_natural: "name" %}
-
+        {% assign list = site.pages | where: "layout", "song" | sort_natural: "name" %}
         {% assign curName = "" %}
-        {% assign songCount = 0 %}
         {% assign artistCount = 0 %}
         {% for song in list %}
-            {% if song.path contains 'songs/' %}
-                {% assign songName = song.name | split: " - " | first %}
-                {% assign songCount = songCount | plus: 1 %}
-                <li>
-                    {% if songName != curName %}
-                        <span>{{ songName }}</span>
-                        {% assign curName = songName %}
-                        {% assign artistCount = artistCount | plus: 1 %}
-                    {% else %}
-                        <span></span>
-                    {% endif %}
-                    <a href=".{{ song.url }}">{{ song.name | split: ".md" | first | split: " - " | last }}</a>
-                    <code>{{ song.lang | upcase }}</code>
-                </li>
-            {% endif %}
+            {% assign songName = song.name | split: " - " | first %}
+            <li>
+                {% if songName != curName %}
+                    <span>{{ songName }}</span>
+                    {% assign curName = songName %}
+                    {% assign artistCount = artistCount | plus: 1 %}
+                {% else %}
+                    <span></span>
+                {% endif %}
+                <a href=".{{ song.url }}">{{ song.name | split: ".md" | first | split: " - " | last }}</a>
+                <code>{{ song.lang | upcase }}</code>
+            </li>
         {% endfor %}
     </ul>
-    <p class="report">{{ songCount }} songs of {{ artistCount }} artists</p>
+    <p class="report">{{ list | size }} songs of {{ artistCount }} artists</p>
 
 
     <h2>List of all the translations:</h2>
     <ul>
-        {% assign songCount = 0 %}
+        {% assign list = site.pages | where: "layout", "translation" | sort_natural: "name" %}
         {% assign transCount = 0 %}
         {% assign artistCount = 0 %}
         {% for song in list %}
-            {% if song.path contains 'translations/' %}
-                {% assign songName = song.name | split: " - " | first %}
-                {% assign songCount = songCount | plus: 1 %}
-                {% assign languages = song.trans | size %}
-                {% assign transCount = transCount | plus: languages %}
-                <li>
-                    {% if songName != curName %}
-                        <span>{{ songName }}</span>
-                        {% assign curName = songName %}
-                        {% assign artistCount = artistCount | plus: 1 %}
-                    {% else %}
-                        <span></span>
-                    {% endif %}
-                    <a href=".{{ song.url }}">{{ song.name | split: ".md" | first | split: " - " | last }}</a>
-                    <code>{% for tran in song.trans %} {{ tran[0] | upcase }} {% endfor %}</code>
-                </li>
-            {% endif %}
+            {% assign songName = song.name | split: " - " | first %}
+            {% assign languages = song.trans | size %}
+            {% assign transCount = transCount | plus: languages %}
+            <li>
+                {% if songName != curName %}
+                    <span>{{ songName }}</span>
+                    {% assign curName = songName %}
+                    {% assign artistCount = artistCount | plus: 1 %}
+                {% else %}
+                    <span></span>
+                {% endif %}
+                <a href=".{{ song.url }}">{{ song.name | split: ".md" | first | split: " - " | last }}</a>
+                <code>{% for tran in song.trans %} {{ tran[0] | upcase }} {% endfor %}</code>
+            </li>
         {% endfor %}
     </ul>
-    <p class="report">{{ transCount }} translations of {{ songCount }} songs of {{ artistCount }} artists</p>
+    <p class="report">{{ transCount }} translations of {{ list | size }} songs of {{ artistCount }} artists</p>
 </main>
