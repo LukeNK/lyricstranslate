@@ -64,9 +64,6 @@ ul li {
     display: flex;
     line-height: 1.25rem;
 }
-ul li:hover { a, code {
-    text-decoration: underline;
-}}
 ul li span {
     flex: 1 0 0;
 }
@@ -77,6 +74,29 @@ ul li code {
     flex: 0 0 5rem;
     text-align: right;
 }
+
+/* Search results */
+input {
+    width: 100%;
+    padding: 0.25rem;
+    font-size: 1rem;
+    outline: none;
+    border: 0.1rem solid var(--color-theme);
+    border-radius: 0.25rem;
+}
+
+ul li.result a::after {
+    content: "◀";
+    margin-left: 0.5rem;
+}
+ul li.noresult { a, code {
+    opacity: 0.3;
+}}
+
+ul li:hover { a, code {
+    text-decoration: underline;
+    opacity: 1;
+}}
 
 /* Lyrics page */
 nav {

@@ -10,6 +10,8 @@ layout: base
 
     <p>All of the files here are uploaded to <a href="https://lyricstranslate.com/en/translator/lukenk">my Lyricstranslate account</a>. The files here are probably not up-to-date.</p>
 
+    <input id="search" type="text" placeholder="Search...">
+
     <h2>List of all the songs:</h2>
     <ul>
         {% assign list = site.pages | where: "layout", "song" | sort_natural: "name" %}
@@ -57,3 +59,31 @@ layout: base
     </ul>
     <p class="report">{{ transCount }} translations of {{ list | size }} songs of {{ artistCount }} artists</p>
 </main>
+
+<script>
+const searchInput = document.getElementById("search");
+searchInput.addEventListener("input", function() {
+    const filter = searchInput.value.toLowerCase();
+    const listItems = document.querySelectorAll("ul li");
+    listItems.forEach(function(elm) {
+        const text = elm.textContent.toLowerCase();
+        if (filter === "") {
+            elm.classList.remove("result");
+            elm.classList.remove("noresult");
+        } else if (text.includes(filter)) {
+            elm.classList.add("result");
+            elm.classList.remove("noresult");
+        } else {
+            elm.classList.remove("result");
+            elm.classList.add("noresult");
+        }
+    });
+});
+searchInput.onkeydown = function(event) {
+    if (event.key === "ArrowDown" || event.key === "Enter") {
+        const firstResult = document.querySelector("ul li.result a");
+        if (firstResult) firstResult.focus();
+        event.preventDefault();
+    }
+};
+</script>
