@@ -38,8 +38,8 @@ Although all of it feels like a far-off dream but
 I promise to you my dear, it will all come true
 
 [Chorus: both]
-Can we believe in a future where you can be you?
-Can we believe in a world that knows my reality?
+Can we believe in a future where I can be me?
+Can we believe in a world that knows your reality?
 Even now it still feels like a far-off dream but
 Somehow together we will make it true
 ```
