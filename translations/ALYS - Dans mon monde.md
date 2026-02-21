@@ -33,9 +33,9 @@ Tớ thét nó
 Trước khi nó phai đi!
 
 Trong một khoảnh khắc, không một dấu vết,
-Khi tớ thức dậy, đừng quên bất thứ gì
-Về thế giới như tuyệt vời,
-Nguy hiểm và như huyền bí!
+Khi tớ thức dậy, đừng quên thứ gì
+Về thế giới tuyệt vời này,
+Nguy hiểm và thật huyền bí!
 
 Ooh
 Tớ muốn thoát khỏi bản thân, khỏi cuộc sống, khỏi những lo âu,
