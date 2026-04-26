@@ -58,3 +58,5 @@ It is a tiny light after all
 Even so, I am staying right here
 Because I follow your voice, so I can find my way
 ```
+
+Cover sing by Alys: [video:https://www.youtube.com/watch?v=TxX-mOqJ4dw]
