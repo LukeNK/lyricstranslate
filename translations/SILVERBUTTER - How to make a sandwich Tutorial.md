@@ -9,7 +9,7 @@ trans:
 Hãy để tớ chỉ cậu cách làm một cái bánh mì kẹp
 Và tớ hứa với cậu nó thật sự không có khó
 Lấy bánh mì ra khỏi cái túi
-Và đường quên để nó lại
+Và đừng quên để nó lại
 Và sau đó cậu để cái bánh mì xuống cái thớt
 
 Lấy bánh mì của cậu và cắt nó thành miếng
