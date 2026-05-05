@@ -24,7 +24,7 @@ Chờ tớ đến và chơi
 
 Oh tớ muốn hát cho cậu và tớ
 Và mọi người trong thiên hà này
-Vì tớ biết rằng nó luôn là
+Vì cậu biết rằng nó luôn là
 Ước mơ của đời tớ
 
 Và tớ không bỏ cuộc
