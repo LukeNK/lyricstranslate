@@ -43,7 +43,7 @@ Oh, cô ấy sống như mơ
 Làm sao anh có thể được cứu?
 Khi anh cách cơn loạn chỉ một nhấp chuột
 Anh chỉ nghĩ là anh đáng
-Một chú những gì anh đã đạt được
+Một chút những gì anh đã đạt được
 Anh sẽ không ăn vạ nữa
 Giống như lần khi anh 23
 Khiến anh không được ở trong Disney World
