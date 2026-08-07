@@ -25,7 +25,7 @@ And paint a world we have never seen before
 As we fall into a dream
 I will keep smiling with you forever
 Like being under a spell
-The path I left behind lit up brightly
+The path I left behind lights up brightly
 
 Like the never-ending snowfall, our feelings only grow stronger
 The nigh sky full of shining stars and silver sparkles
@@ -45,7 +45,7 @@ Connect to a future of you and me
 Even when there are things that seem out of reach
 We will chase and catch up to them
 And when we run through it with all our heart
-The path we left behind lit up brightly
+The path we left behind lights up brightly
 
 I hope the faint sound of footsteps will not be drowned out
 I will cherish this moment
@@ -57,5 +57,5 @@ And paint a world we have never seen before
 As we fall into a dream
 I will keep smiling with you forever
 Like being under a spell
-The path I left behind lit up brightly
+The path I left behind lights up brightly
 ```
