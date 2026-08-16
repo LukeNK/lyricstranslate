@@ -34,7 +34,7 @@ I do not want to let go of the hand that warmed me
 
 Our hopes are reflected through the melting snow so we will not forget them
 Reach out to the light that leads us to tomorrow
-If there is a melody that has not reached to our heart
+If there is a melody that has not reached to our hearts
 Then I will bring it here
 Let's go
 
@@ -44,7 +44,7 @@ The one chance when the stars align
 Connect to a future of you and me
 Even when there are things that seem out of reach
 We will chase and catch up to them
-And when we run through it with all our heart
+And when we run through it with all our hearts
 The path we left behind lights up brightly
 
 I hope the faint sound of footsteps will not be drowned out
