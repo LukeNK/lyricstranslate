@@ -45,7 +45,7 @@ I look for you
 [Bridge]
 And all the pains, crying 'cause of all the worries
 You can change everything in this instant
-The endless rain, and the darkness is finally over
+The endless rain, and the darkness are finally over
 Let's go and clear the clouds, make way for us to paint a rainbow ahead
 
 [Chorus]
